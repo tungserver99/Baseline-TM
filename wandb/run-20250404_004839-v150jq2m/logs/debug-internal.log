@@ -1,0 +1,11 @@
+{"time":"2025-04-04T00:48:39.263846825+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:48:39.263892622+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_004839-v150jq2m/logs/debug-core.log"}
+{"time":"2025-04-04T00:48:39.263983573+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:48:39.263990957+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_004839-v150jq2m/logs/debug-core.log"}
+{"time":"2025-04-04T00:48:39.271805549+07:00","level":"INFO","msg":"created new stream","id":"v150jq2m"}
+{"time":"2025-04-04T00:48:39.271886642+07:00","level":"INFO","msg":"stream: started","id":"v150jq2m"}
+{"time":"2025-04-04T00:48:39.271907321+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"v150jq2m"}}
+{"time":"2025-04-04T00:48:39.271931326+07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"v150jq2m"}}
+{"time":"2025-04-04T00:48:39.271955832+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"v150jq2m"}}
+{"time":"2025-04-04T00:48:39.652970057+07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-04-04T00:48:39.654833165+07:00","level":"INFO","msg":"Starting system monitor"}

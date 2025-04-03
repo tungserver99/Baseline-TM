@@ -1,0 +1,21 @@
+{"time":"2025-04-03T23:19:13.358105821+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-03T23:19:13.358152178+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250403_231913-v4or2ggb/logs/debug-core.log"}
+{"time":"2025-04-03T23:19:13.358255191+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-03T23:19:13.358263587+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250403_231913-v4or2ggb/logs/debug-core.log"}
+{"time":"2025-04-03T23:19:13.365275224+07:00","level":"INFO","msg":"created new stream","id":"v4or2ggb"}
+{"time":"2025-04-03T23:19:13.365322733+07:00","level":"INFO","msg":"stream: started","id":"v4or2ggb"}
+{"time":"2025-04-03T23:19:13.365405719+07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"v4or2ggb"}}
+{"time":"2025-04-03T23:19:13.365356406+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"v4or2ggb"}}
+{"time":"2025-04-03T23:19:13.36543309+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"v4or2ggb"}}
+{"time":"2025-04-03T23:19:14.078733164+07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-04-03T23:19:14.08126747+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T23:19:20.970408859+07:00","level":"INFO","msg":"stream: closing","id":"v4or2ggb"}
+{"time":"2025-04-03T23:19:20.970530527+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T23:19:20.970940667+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T23:19:21.228792454+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-04-03T23:19:21.228860001+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-04-03T23:19:21.228879107+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-04-03T23:19:22.302211548+07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"v4or2ggb"}}
+{"time":"2025-04-03T23:19:22.302290246+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"v4or2ggb"}}
+{"time":"2025-04-03T23:19:22.302317126+07:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"v4or2ggb"}}
+{"time":"2025-04-03T23:19:22.302476596+07:00","level":"INFO","msg":"stream: closed","id":"v4or2ggb"}

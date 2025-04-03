@@ -1,0 +1,94 @@
+_wandb:
+    value:
+        cli_version: 0.18.1
+        m: []
+        python_version: 3.10.14
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 55
+                - 75
+            "2":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+                - 55
+                - 75
+            "3":
+                - 16
+                - 23
+                - 55
+            "4": 3.10.14
+            "5": 0.18.1
+            "6": 4.44.2
+            "8":
+                - 2
+                - 5
+            "12": 0.18.1
+            "13": linux-x86_64
+DT_alpha:
+    value: 3
+TW_alpha:
+    value: 2
+alpha_GR:
+    value: 5
+batch_size:
+    value: 200
+beta_temp:
+    value: 0.2
+dataset:
+    value: 20NG
+device:
+    value: cuda
+dropout:
+    value: 0.2
+epochs:
+    value: 10
+glove:
+    value: glove.6B.100d.txt
+hidden_dim_1:
+    value: 384
+hidden_dim_2:
+    value: 384
+init_alpha:
+    value: true
+lr:
+    value: 0.002
+lr_scheduler:
+    value: StepLR
+lr_step_size:
+    value: 125
+model:
+    value: WeTe
+num_groups:
+    value: 20
+num_topics:
+    value: 50
+plm_model:
+    value: all-mpnet-base-v2
+seed:
+    value: 0
+theta_temp:
+    value: 1
+tune_SVM:
+    value: false
+use_pretrainWE:
+    value: true
+wandb_prj:
+    value: baselines
+weight_ECR:
+    value: 100
+weight_GR:
+    value: 1
+weight_InfoNCE:
+    value: 50
+wete_beta:
+    value: 0.5
+wete_epsilon:
+    value: 0.1

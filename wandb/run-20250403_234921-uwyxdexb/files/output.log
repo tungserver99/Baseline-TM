@@ -1,0 +1,28 @@
+===>train_size:  11314
+===>test_size:  7532
+===>vocab_size:  5000
+===>average length: 110.543
+===>using lr_scheduler
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+100%|███████████████████████████████████████████| 10/10 [00:03<00:00,  3.23it/s]
+Traceback (most recent call last):
+  File "/mnt/tungns/Baselines/main.py", line 127, in <module>
+    train_theta, test_theta = trainer.save_theta(dataset, current_run_dir)
+  File "/mnt/tungns/Baselines/basic_trainer.py", line 138, in save_theta
+    train_theta, test_theta = self.export_theta(dataset_handler)
+  File "/mnt/tungns/Baselines/basic_trainer.py", line 121, in export_theta
+    train_theta = self.test(dataset_handler.train_data)
+  File "/mnt/tungns/Baselines/basic_trainer.py", line 105, in test
+    batch_theta = self.model.get_theta(batch_input)
+  File "/mnt/tungns/Baselines/models/CTM.py", line 59, in get_theta
+    mu, logvar = self.encode(combined)
+  File "/mnt/tungns/Baselines/models/CTM.py", line 77, in encode
+    e1 = F.softplus(self.fc11(x))
+  File "/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/nn/modules/linear.py", line 117, in forward
+    return F.linear(input, self.weight, self.bias)
+RuntimeError: mat1 and mat2 shapes cannot be multiplied (200x5000 and 5384x200)

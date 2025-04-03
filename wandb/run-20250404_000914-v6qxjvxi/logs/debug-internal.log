@@ -1,0 +1,21 @@
+{"time":"2025-04-04T00:09:14.279264386+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:09:14.279297788+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_000914-v6qxjvxi/logs/debug-core.log"}
+{"time":"2025-04-04T00:09:14.279350567+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:09:14.279354304+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_000914-v6qxjvxi/logs/debug-core.log"}
+{"time":"2025-04-04T00:09:14.28504072+07:00","level":"INFO","msg":"created new stream","id":"v6qxjvxi"}
+{"time":"2025-04-04T00:09:14.285070455+07:00","level":"INFO","msg":"stream: started","id":"v6qxjvxi"}
+{"time":"2025-04-04T00:09:14.285091895+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"v6qxjvxi"}}
+{"time":"2025-04-04T00:09:14.285100261+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"v6qxjvxi"}}
+{"time":"2025-04-04T00:09:14.2851798+07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"v6qxjvxi"}}
+{"time":"2025-04-04T00:09:14.763484728+07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-04-04T00:09:14.770295497+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-04T00:11:55.897346994+07:00","level":"INFO","msg":"stream: closing","id":"v6qxjvxi"}
+{"time":"2025-04-04T00:11:55.897432835+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-04T00:11:55.897768093+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-04T00:11:56.140006303+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-04-04T00:11:56.140059954+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-04-04T00:11:56.140065775+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-04-04T00:11:57.726656623+07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"v6qxjvxi"}}
+{"time":"2025-04-04T00:11:57.726715393+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"v6qxjvxi"}}
+{"time":"2025-04-04T00:11:57.726732615+07:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"v6qxjvxi"}}
+{"time":"2025-04-04T00:11:57.726935705+07:00","level":"INFO","msg":"stream: closed","id":"v6qxjvxi"}

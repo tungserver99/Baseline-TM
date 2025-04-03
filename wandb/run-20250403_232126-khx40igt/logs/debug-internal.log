@@ -1,0 +1,21 @@
+{"time":"2025-04-03T23:21:26.835501043+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-03T23:21:26.835543763+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250403_232126-khx40igt/logs/debug-core.log"}
+{"time":"2025-04-03T23:21:26.8356381+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-03T23:21:26.835645514+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250403_232126-khx40igt/logs/debug-core.log"}
+{"time":"2025-04-03T23:21:26.841469653+07:00","level":"INFO","msg":"created new stream","id":"khx40igt"}
+{"time":"2025-04-03T23:21:26.841525628+07:00","level":"INFO","msg":"stream: started","id":"khx40igt"}
+{"time":"2025-04-03T23:21:26.841570643+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"khx40igt"}}
+{"time":"2025-04-03T23:21:26.841575892+07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"khx40igt"}}
+{"time":"2025-04-03T23:21:26.841599988+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"khx40igt"}}
+{"time":"2025-04-03T23:21:27.326699343+07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-04-03T23:21:27.3287491+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T23:21:36.067192743+07:00","level":"INFO","msg":"stream: closing","id":"khx40igt"}
+{"time":"2025-04-03T23:21:36.067287451+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T23:21:36.067599877+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T23:21:36.435794501+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-04-03T23:21:36.435833534+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-04-03T23:21:36.435842722+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-04-03T23:21:38.041065563+07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"khx40igt"}}
+{"time":"2025-04-03T23:21:38.041145954+07:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"khx40igt"}}
+{"time":"2025-04-03T23:21:38.041140083+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"khx40igt"}}
+{"time":"2025-04-03T23:21:38.041414658+07:00","level":"INFO","msg":"stream: closed","id":"khx40igt"}

@@ -1,0 +1,228 @@
+===>train_size:  11314
+===>test_size:  7532
+===>vocab_size:  5000
+===>average length: 110.543
+===>using lr_scheduler
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+100%|███████████████████████████████████████████| 10/10 [00:18<00:00,  1.84s/it]
+Topic 0: software windows thanks keywords version phone bit drive info card
+Topic 1: team play game games win pittsburgh players season toronto mike
+Topic 2: etc host thanks lines posting distribution nntp problem computer reply
+Topic 3: really like sure little thing know article look just good
+Topic 4: software windows running card info thanks version phone keywords drive
+Topic 5: believe reason god true life nothing mean fact perhaps wrong
+Topic 6: game team play year home mark big steve got maybe
+Topic 7: really think tell thing something little see know just sure
+Topic 8: max michael nntp usa host john lines robert university reply
+Topic 9: guess anyway remember sorry pretty maybe bad heard thought ever
+Topic 10: true reason god seem believe mean wrong life nothing fact
+Topic 11: host etc lines posting thanks nntp distribution problem reply usa
+Topic 12: michael best big year next got steve game pretty mark
+Topic 13: video running memory disk unix card files windows mac screen
+Topic 14: video running memory windows card files unix disk software info
+Topic 15: files software windows version info standard available data unix works
+Topic 16: today israel country armenian war jews rights armenians israeli fact
+Topic 17: game team play win games mike year home steve big
+Topic 18: tell say things think come never even anything seems nothing
+Topic 19: software windows info running card version phone files available thanks
+Topic 20: dave mike smith bob play team win games pittsburgh game
+Topic 21: nothing believe say fact mean come things thought tell wrong
+Topic 22: got lines back like really probably good article look around
+Topic 23: life god reason perhaps fact believe mean true person nothing
+Topic 24: god life reason perhaps true believe understand fact christian mean
+Topic 25: tell think things something thing anything never see really even
+Topic 26: thanks computer bit software looking inc using windows distribution run
+Topic 27: maybe bad got remember big great left home heard last
+Topic 28: software available version windows data using thanks phone systems access
+Topic 29: space program data technology available systems research current information using
+Topic 30: government state years said part already people keep made going
+Topic 31: windows software running card info keywords version phone files thanks
+Topic 32: thanks software computer bit windows looking using inc run version
+Topic 33: thanks computer bit inc looking etc distribution software host nntp
+Topic 34: michael mike steve mark looking best thanks dave robert game
+Topic 35: nntp host posting lines thanks reply usa looking distribution please
+Topic 36: away thought come remember nothing said fact says always people
+Topic 37: looking thanks run car problems computer drive bit using buy
+Topic 38: fact today others law perhaps believe whether reason government nothing
+Topic 39: say nothing fact mean things believe people tell rather come
+Topic 40: thanks computer bit etc inc distribution looking host nntp problem
+Topic 41: software windows thanks version phone keywords info available bit drive
+Topic 42: host lines posting got usa looking nntp distribution around probably
+Topic 43: key information number public message use system used support etc
+Topic 44: god life reason perhaps believe true jesus fact nothing mean
+Topic 45: windows software card thanks version info running drive files keywords
+Topic 46: lines host posting etc nntp reply subject like organization article
+Topic 47: windows software running card info keywords thanks version phone drive
+Topic 48: like also sure subject etc lines know look find organization
+Topic 49: thanks computer bit inc looking software etc distribution using host
+Topic 0: software windows thanks keywords version phone bit drive info card computer looking run available systems
+Topic 1: team play game games win pittsburgh players season toronto mike chicago third baseball hockey dave
+Topic 2: etc host thanks lines posting distribution nntp problem computer reply please usa subject anyone organization
+Topic 3: really like sure little thing know article look just good lines much something see probably
+Topic 4: software windows running card info thanks version phone keywords drive available files works systems bit
+Topic 5: believe reason god true life nothing mean fact perhaps wrong seem others says thought say
+Topic 6: game team play year home mark big steve got maybe last best second great bad
+Topic 7: really think tell thing something little see know just sure going anything article enough like
+Topic 8: max michael nntp usa host john lines robert university reply thanks posting david writes etc
+Topic 9: guess anyway remember sorry pretty maybe bad heard thought ever always quite great yes else
+Topic 10: true reason god seem believe mean wrong life nothing fact perhaps example others answer rather
+Topic 11: host etc lines posting thanks nntp distribution problem reply usa please computer subject anyone organization
+Topic 12: michael best big year next got steve game pretty mark getting mike looking usa home
+Topic 13: video running memory disk unix card files windows mac screen hardware info sale copy software
+Topic 14: video running memory windows card files unix disk software info mac sale screen machine copy
+Topic 15: files software windows version info standard available data unix works code phone email card running
+Topic 16: today israel country armenian war jews rights armenians israeli fact whole hope children saying government
+Topic 17: game team play win games mike year home steve big mark next last second left
+Topic 18: tell say things think come never even anything seems nothing many point made something let
+Topic 19: software windows info running card version phone files available thanks works keywords drive data systems
+Topic 20: dave mike smith bob play team win games pittsburgh game toronto players brian scott chicago
+Topic 21: nothing believe say fact mean come things thought tell wrong true seems says never think
+Topic 22: got lines back like really probably good article look around sure little subject just host
+Topic 23: life god reason perhaps fact believe mean true person nothing others whether wrong seem understand
+Topic 24: god life reason perhaps true believe understand fact christian mean person simply word nothing matter
+Topic 25: tell think things something thing anything never see really even seems point let made say
+Topic 26: thanks computer bit software looking inc using windows distribution run etc mail problems host please
+Topic 27: maybe bad got remember big great left home heard last back ever year second lot
+Topic 28: software available version windows data using thanks phone systems access standard set bit info mail
+Topic 29: space program data technology available systems research current information using including large small cost list
+Topic 30: government state years said part already people keep made going many come even fact say
+Topic 31: windows software running card info keywords version phone files thanks drive works available window video
+Topic 32: thanks software computer bit windows looking using inc run version keywords phone drive mail systems
+Topic 33: thanks computer bit inc looking etc distribution software host nntp please using problem posting problems
+Topic 34: michael mike steve mark looking best thanks dave robert game usa keywords run pretty got
+Topic 35: nntp host posting lines thanks reply usa looking distribution please etc inc organization computer hard
+Topic 36: away thought come remember nothing said fact says always people let say came believe never
+Topic 37: looking thanks run car problems computer drive bit using buy systems inc high distribution line
+Topic 38: fact today others law perhaps believe whether reason government nothing people life mean given person
+Topic 39: say nothing fact mean things believe people tell rather come many yet anything even seems
+Topic 40: thanks computer bit etc inc distribution looking host nntp problem using please software posting problems
+Topic 41: software windows thanks version phone keywords info available bit drive card computer systems using works
+Topic 42: host lines posting got usa looking nntp distribution around probably anyone subject get reply thanks
+Topic 43: key information number public message use system used support etc problem also read possible using
+Topic 44: god life reason perhaps believe true jesus fact nothing mean man christian person wrong understand
+Topic 45: windows software card thanks version info running drive files keywords phone bit works available standard
+Topic 46: lines host posting etc nntp reply subject like organization article anyone distribution sure look also
+Topic 47: windows software running card info keywords thanks version phone drive files works available window bit
+Topic 48: like also sure subject etc lines know look find organization much article want read just
+Topic 49: thanks computer bit inc looking software etc distribution using host nntp please problem problems mail
+Topic 0: software windows thanks keywords version phone bit drive info card computer looking run available systems inc running using mail works
+Topic 1: team play game games win pittsburgh players season toronto mike chicago third baseball hockey dave teams red hit bob division
+Topic 2: etc host thanks lines posting distribution nntp problem computer reply please usa subject anyone organization need used looking work inc
+Topic 3: really like sure little thing know article look just good lines much something see probably writes subject back around think
+Topic 4: software windows running card info thanks version phone keywords drive available files works systems bit data window computer standard interested
+Topic 5: believe reason god true life nothing mean fact perhaps wrong seem others says thought say person man whether come rather
+Topic 6: game team play year home mark big steve got maybe last best second great bad left next mike pretty john
+Topic 7: really think tell thing something little see know just sure going anything article enough like even way never now still
+Topic 8: max michael nntp usa host john lines robert university reply thanks posting david writes etc organization subject distribution article mark
+Topic 9: guess anyway remember sorry pretty maybe bad heard thought ever always quite great yes else away everything wrong got big
+Topic 10: true reason god seem believe mean wrong life nothing fact perhaps example others answer rather seems person makes whether yet
+Topic 11: host etc lines posting thanks nntp distribution problem reply usa please computer subject anyone organization need looking used work like
+Topic 12: michael best big year next got steve game pretty mark getting mike looking usa home host car last run thanks
+Topic 13: video running memory disk unix card files windows mac screen hardware info sale copy software machine box fax server keywords
+Topic 14: video running memory windows card files unix disk software info mac sale screen machine copy hardware box keywords fax works
+Topic 15: files software windows version info standard available data unix works code phone email card running systems access memory window thanks
+Topic 16: today israel country armenian war jews rights armenians israeli fact whole hope children saying government states killed taken jewish agree
+Topic 17: game team play win games mike year home steve big mark next last second left got players best maybe bad
+Topic 18: tell say things think come never even anything seems nothing many point made something let question see believe thing fact
+Topic 19: software windows info running card version phone files available thanks works keywords drive data systems standard email bit window access
+Topic 20: dave mike smith bob play team win games pittsburgh game toronto players brian scott chicago season baseball gary steve tom
+Topic 21: nothing believe say fact mean come things thought tell wrong true seems says never think seem reason anything always point
+Topic 22: got lines back like really probably good article look around sure little subject just host great lot much know first
+Topic 23: life god reason perhaps fact believe mean true person nothing others whether wrong seem understand matter simply says man agree
+Topic 24: god life reason perhaps true believe understand fact christian mean person simply word nothing matter jesus others agree wrong seem
+Topic 25: tell think things something thing anything never see really even seems point let made say many come know enough little
+Topic 26: thanks computer bit software looking inc using windows distribution run etc mail problems host please nntp problem version keywords set
+Topic 27: maybe bad got remember big great left home heard last back ever year second lot little seen really going around
+Topic 28: software available version windows data using thanks phone systems access standard set bit info mail works computer files message email
+Topic 29: space program data technology available systems research current information using including large small cost list set software system send access
+Topic 30: government state years said part already people keep made going many come even fact say far now given take since
+Topic 31: windows software running card info keywords version phone files thanks drive works available window video memory email systems sale standard
+Topic 32: thanks software computer bit windows looking using inc run version keywords phone drive mail systems available problems set distribution list
+Topic 33: thanks computer bit inc looking etc distribution software host nntp please using problem posting problems mail run lines windows usa
+Topic 34: michael mike steve mark looking best thanks dave robert game usa keywords run pretty got next host big year nntp
+Topic 35: nntp host posting lines thanks reply usa looking distribution please etc inc organization computer hard bit problem best run subject
+Topic 36: away thought come remember nothing said fact says always people let say came believe never hope tell made day mean
+Topic 37: looking thanks run car problems computer drive bit using buy systems inc high distribution line stuff keywords need problem use
+Topic 38: fact today others law perhaps believe whether reason government nothing people life mean given person true issue say says said
+Topic 39: say nothing fact mean things believe people tell rather come many yet anything even seems think question point seem kind
+Topic 40: thanks computer bit etc inc distribution looking host nntp problem using please software posting problems lines mail usa run use
+Topic 41: software windows thanks version phone keywords info available bit drive card computer systems using works looking running run inc mail
+Topic 42: host lines posting got usa looking nntp distribution around probably anyone subject get reply thanks best etc lot organization like
+Topic 43: key information number public message use system used support etc problem also read possible using work need try questions several
+Topic 44: god life reason perhaps believe true jesus fact nothing mean man christian person wrong understand word others says seem thought
+Topic 45: windows software card thanks version info running drive files keywords phone bit works available standard systems window computer data memory
+Topic 46: lines host posting etc nntp reply subject like organization article anyone distribution sure look also problem usa probably know new
+Topic 47: windows software running card info keywords thanks version phone drive files works available window bit systems interested email run memory
+Topic 48: like also sure subject etc lines know look find organization much article want read just work anyone posting new time
+Topic 49: thanks computer bit inc looking software etc distribution using host nntp please problem problems mail run posting windows lines set
+Topic 0: software windows thanks keywords version phone bit drive info card computer looking run available systems inc running using mail works interested set data problems window
+Topic 1: team play game games win pittsburgh players season toronto mike chicago third baseball hockey dave teams red hit bob division san lost night canada steve
+Topic 2: etc host thanks lines posting distribution nntp problem computer reply please usa subject anyone organization need used looking work inc use get help like problems
+Topic 3: really like sure little thing know article look just good lines much something see probably writes subject back around think time tell actually great though
+Topic 4: software windows running card info thanks version phone keywords drive available files works systems bit data window computer standard interested using run email looking mail
+Topic 5: believe reason god true life nothing mean fact perhaps wrong seem others says thought say person man whether come rather yet things people seems makes
+Topic 6: game team play year home mark big steve got maybe last best second great bad left next mike pretty john remember ever win back getting
+Topic 7: really think tell thing something little see know just sure going anything article enough like even way never now still though good take actually much
+Topic 8: max michael nntp usa host john lines robert university reply thanks posting david writes etc organization subject distribution article mark got best please steve like
+Topic 9: guess anyway remember sorry pretty maybe bad heard thought ever always quite great yes else away everything wrong got big left home couple really let
+Topic 10: true reason god seem believe mean wrong life nothing fact perhaps example others answer rather seems person makes whether yet quite things say idea means
+Topic 11: host etc lines posting thanks nntp distribution problem reply usa please computer subject anyone organization need looking used work like get inc also help use
+Topic 12: michael best big year next got steve game pretty mark getting mike looking usa home host car last run thanks start back nntp around lot
+Topic 13: video running memory disk unix card files windows mac screen hardware info sale copy software machine box fax server keywords window works speed graphics version
+Topic 14: video running memory windows card files unix disk software info mac sale screen machine copy hardware box keywords fax works version window phone speed email
+Topic 15: files software windows version info standard available data unix works code phone email card running systems access memory window thanks video using keywords bit drive
+Topic 16: today israel country armenian war jews rights armenians israeli fact whole hope children saying government states killed taken jewish agree human away live men people
+Topic 17: game team play win games mike year home steve big mark next last second left got players best maybe bad great canada couple pretty michael
+Topic 18: tell say things think come never even anything seems nothing many point made something let question see believe thing fact mean people yet course take
+Topic 19: software windows info running card version phone files available thanks works keywords drive data systems standard email bit window access using interested computer mail memory
+Topic 20: dave mike smith bob play team win games pittsburgh game toronto players brian scott chicago season baseball gary steve tom thomas eric chris player michael
+Topic 21: nothing believe say fact mean come things thought tell wrong true seems says never think seem reason anything always point people made yet let quite
+Topic 22: got lines back like really probably good article look around sure little subject just host great lot much know first posting organization better maybe new
+Topic 23: life god reason perhaps fact believe mean true person nothing others whether wrong seem understand matter simply says man agree say given thought answer people
+Topic 24: god life reason perhaps true believe understand fact christian mean person simply word nothing matter jesus others agree wrong seem answer whether man evidence mind
+Topic 25: tell think things something thing anything never see really even seems point let made say many come know enough little way going take else just
+Topic 26: thanks computer bit software looking inc using windows distribution run etc mail problems host please nntp problem version keywords set posting drive systems usa phone
+Topic 27: maybe bad got remember big great left home heard last back ever year second lot little seen really going around ago good getting better best
+Topic 28: software available version windows data using thanks phone systems access standard set bit info mail works computer files message email inc information code note system
+Topic 29: space program data technology available systems research current information using including large small cost list set software system send access nasa high following thanks computer
+Topic 30: government state years said part already people keep made going many come even fact say far now given take since public yet let think question
+Topic 31: windows software running card info keywords version phone files thanks drive works available window video memory email systems sale standard bit interested box data run
+Topic 32: thanks software computer bit windows looking using inc run version keywords phone drive mail systems available problems set distribution list info interested please problem line
+Topic 33: thanks computer bit inc looking etc distribution software host nntp please using problem posting problems mail run lines windows usa set reply use version used
+Topic 34: michael mike steve mark looking best thanks dave robert game usa keywords run pretty got next host big year nntp john team play getting posting
+Topic 35: nntp host posting lines thanks reply usa looking distribution please etc inc organization computer hard bit problem best run subject writes like line got problems
+Topic 36: away thought come remember nothing said fact says always people let say came believe never hope tell made day mean kind wrong far maybe today
+Topic 37: looking thanks run car problems computer drive bit using buy systems inc high distribution line stuff keywords need problem use used help system set software
+Topic 38: fact today others law perhaps believe whether reason government nothing people life mean given person true issue say says said hope whole means saying come
+Topic 39: say nothing fact mean things believe people tell rather come many yet anything even seems think question point seem kind others never made true reason
+Topic 40: thanks computer bit etc inc distribution looking host nntp problem using please software posting problems lines mail usa run use set used reply need system
+Topic 41: software windows thanks version phone keywords info available bit drive card computer systems using works looking running run inc mail data set interested access files
+Topic 42: host lines posting got usa looking nntp distribution around probably anyone subject get reply thanks best etc lot organization like big look please problem car
+Topic 43: key information number public message use system used support etc problem also read possible using work need try questions several called case help find access
+Topic 44: god life reason perhaps believe true jesus fact nothing mean man christian person wrong understand word others says seem thought mind matter agree simply whether
+Topic 45: windows software card thanks version info running drive files keywords phone bit works available standard systems window computer data memory using unix email inc run
+Topic 46: lines host posting etc nntp reply subject like organization article anyone distribution sure look also problem usa probably know new get writes much really good
+Topic 47: windows software running card info keywords thanks version phone drive files works available window bit systems interested email run memory sale box computer video standard
+Topic 48: like also sure subject etc lines know look find organization much article want read just work anyone posting new time get really make try something
+Topic 49: thanks computer bit inc looking software etc distribution using host nntp please problem problems mail run posting windows lines set usa version use keywords used
+train theta argmax: (array([ 0,  1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 12, 13, 14, 15, 16, 17,
+       18, 19, 20, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37,
+       38, 39, 40, 42, 43, 44, 45, 46, 47]), array([  12,  411,   63,  610,    5,   84,  478,   34,   11,   17,  134,
+        134, 1645,    1,  138,  231,  202,   24,   22,  325,    7,  642,
+        385,   17,  135,   18,  205,  206,    3,    6,   35,  167,  289,
+        163,  581,  482, 1250,  501,  435,  395,  514,  287,   10]))
+test theta argmax: (array([ 0,  1,  2,  3,  5,  6,  7,  9, 10, 12, 13, 15, 16, 17, 18, 19, 20,
+       23, 24, 25, 27, 28, 29, 30, 32, 33, 34, 36, 37, 38, 39, 40, 42, 43,
+       44, 45, 46, 47]), array([   8,  287,   51,  390,   54,  351,    7,    2,   58,   64, 1100,
+         66,  112,  125,   12,   14,  157,  534,  247,    4,   92,    4,
+        155,   97,    8,   10,   94,  298,   93,  437,  236,  912,  375,
+        282,  289,  325,  174,    8]))
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/sklearn/feature_extraction/text.py:517: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
+  warnings.warn(
+TD_10: 0.13800
+TD_15: 0.11200
+NMI:  0.4368128293603472
+Purity:  0.4398566117896973
+Accuracy:  0.516728624535316
+Macro-f1 0.5017381447651182

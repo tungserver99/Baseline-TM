@@ -1,0 +1,11 @@
+{"time":"2025-04-04T00:05:27.134169084+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:05:27.134222123+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_000527-mvsva1dm/logs/debug-core.log"}
+{"time":"2025-04-04T00:05:27.134310758+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:05:27.13431702+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_000527-mvsva1dm/logs/debug-core.log"}
+{"time":"2025-04-04T00:05:27.139636985+07:00","level":"INFO","msg":"created new stream","id":"mvsva1dm"}
+{"time":"2025-04-04T00:05:27.139677891+07:00","level":"INFO","msg":"stream: started","id":"mvsva1dm"}
+{"time":"2025-04-04T00:05:27.139691026+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mvsva1dm"}}
+{"time":"2025-04-04T00:05:27.139764643+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mvsva1dm"}}
+{"time":"2025-04-04T00:05:27.13971471+07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"mvsva1dm"}}
+{"time":"2025-04-04T00:05:27.600381045+07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-04-04T00:05:27.603226179+07:00","level":"INFO","msg":"Starting system monitor"}

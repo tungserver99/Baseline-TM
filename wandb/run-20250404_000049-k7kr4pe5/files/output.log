@@ -1,0 +1,224 @@
+===>train_size:  11314
+===>test_size:  7532
+===>vocab_size:  5000
+===>average length: 110.543
+===>using lr_scheduler
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+100%|███████████████████████████████████████████| 10/10 [00:02<00:00,  3.59it/s]
+Topic 0: crypto mine record method correct cryptography nsa code transmission hello
+Topic 1: organization article now say even still much though example today
+Topic 2: posting data mouse posted output driver user quality corp comes
+Topic 3: use used using system keywords users unix images sun code
+Topic 4: lines problem free start problems originator run exist continue real
+Topic 5: max team teams city nhl hockey pick lost west won
+Topic 6: like fire power american public list states killed taking guns
+Topic 7: subject one get time right want year first years take
+Topic 8: windows bit bill card standard full whole big note little
+Topic 9: thanks win canada apr support plus btw advantage trade cheap
+Topic 10: david give dod top michael richard greg lose smith required
+Topic 11: article software version call server window please systems memory night
+Topic 12: anyone need hard probably keep maybe anything idea ask change
+Topic 13: people also new many number opinions available name info old
+Topic 14: season points cup toronto round playoff east cleveland playoffs islanders
+Topic 15: think something sure things true nothing thing question writes says
+Topic 16: mail two university players north international sent college apparently several
+Topic 17: new government law article high send rights april gun free
+Topic 18: world san usa pittsburgh division series business total loss schedule
+Topic 19: university done private etc department engineering built air fully complete
+Topic 20: make made clipper part provide programs needed discussion plan force
+Topic 21: writes university michael usa john james paul great scott kevin
+Topic 22: organization different life image looking based found set email address
+Topic 23: god jesus christian christ christians church person jews bible religion
+Topic 24: system systems knowledge state certain reading ftp society experience authority
+Topic 25: host money gods individual takes jim directly waste meet event
+Topic 26: people long front net line head half frank goal drive
+Topic 27: space science internet technology public water nasa local call earth
+Topic 28: nntp league interested hockey nhl mac chicago los angeles rochester
+Topic 29: etc difference try drivers scsi prefer oil push bottom hey
+Topic 30: little look seen small without side large less cars bike
+Topic 31: information source machine ideas encrypted uses description advance weapon main
+Topic 32: least around newsgroup appreciated bbs tin per miles usenet port
+Topic 33: games steve game dos mike current runs brian period home
+Topic 34: writes work read every day buy sale mail book written
+Topic 35: play distribution player results final game perfect open video stars
+Topic 36: theory pay effect value insurance price tax worth issue interest
+Topic 37: program away eye anybody inside internal heard mine baseball hole
+Topic 38: computer list bad stuff card summary banks write default lower
+Topic 39: know just see really going far lot thought tell course
+Topic 40: file files color check disk gif format jpeg ones usually
+Topic 41: another center state human called research legal large within political
+Topic 42: reply please yes word simply house result words mail sorry
+Topic 43: said services office drugs inc company fbi told bought weapons
+Topic 44: good like way best help better believe find key next
+Topic 45: wrote heard robert fine simms owners dave voice sound tin
+Topic 46: use general mean saying control line first following point enforcement
+Topic 47: car speed body distribution low engine ford laboratory orbit vehicle
+Topic 48: evidence questions care israel question war whether anti crime jewish
+Topic 49: dept newsreader jon mary univ faq lib boulder earth netcom
+Topic 0: crypto mine record method correct cryptography nsa code transmission hello count applied algorithm null acts
+Topic 1: organization article now say even still much though example today fact reason rather agree country
+Topic 2: posting data mouse posted output driver user quality corp comes release apple switch pin latest
+Topic 3: use used using system keywords users unix images sun code material electronic mars light privacy
+Topic 4: lines problem free start problems originator run exist continue real running case speak mentioned pointed
+Topic 5: max team teams city nhl hockey pick lost west won part western road traded university
+Topic 6: like fire power american public list states killed taking guns world times usa smoke companies
+Topic 7: subject one get time right want year first years take two come last put never
+Topic 8: windows bit bill card standard full whole big note little ibm date apple version size
+Topic 9: thanks win canada apr support plus btw advantage trade cheap compared australia ahead special overall
+Topic 10: david give dod top michael richard greg lose smith required cost jim wanted average assume
+Topic 11: article software version call server window please systems memory night common hardware display require called
+Topic 12: anyone need hard probably keep maybe anything idea ask change possible accept thinking trying seems
+Topic 13: people also new many number opinions available name info old group national children claim email
+Topic 14: season points cup toronto round playoff east cleveland playoffs islanders vancouver standings finished kings shooting
+Topic 15: think something sure things true nothing thing question writes says kind yet else mind seems
+Topic 16: mail two university players north international sent college apparently several three school engineering south canada
+Topic 17: new government law article high send rights april gun free order police federal laws non
+Topic 18: world san usa pittsburgh division series business total loss schedule regular motorcycle sweden conference auto
+Topic 19: university done private etc department engineering built air fully complete everything home lab institute school
+Topic 20: make made clipper part provide programs needed discussion plan force none security effective shuttle present
+Topic 21: writes university michael usa john james paul great scott kevin news distribution california history college
+Topic 22: organization different life image looking based found set email address message groups statement show face
+Topic 23: god jesus christian christ christians church person jews bible religion according turkish lord atheists king
+Topic 24: system systems knowledge state certain reading ftp society experience authority language view important religions study
+Topic 25: host money gods individual takes jim directly waste meet event ontario events jack collect scott
+Topic 26: people long front net line head half frank goal drive bob shot craig hands minutes
+Topic 27: space science internet technology public water nasa local call earth name news please physics institute
+Topic 28: nntp league interested hockey nhl mac chicago los angeles rochester bay deal montreal louis shipping
+Topic 29: etc difference try drivers scsi prefer oil push bottom hey fault tel dare algorithm tap
+Topic 30: little look seen small without side large less cars bike man near setting white room
+Topic 31: information source machine ideas encrypted uses description advance weapon main analysis sources reference summary anonymous
+Topic 32: least around newsgroup appreciated bbs tin per miles usenet port vesa guest traffic uucp goal
+Topic 33: games steve game dos mike current runs brian period home currently rangers ram mode live
+Topic 34: writes work read every day buy sale mail book written works self mark john offer
+Topic 35: play distribution player results final game perfect open video stars espn input field iii processing
+Topic 36: theory pay effect value insurance price tax worth issue interest escrow market costs taxes amount
+Topic 37: program away eye anybody inside internal heard mine baseball hole ground open door somebody roger
+Topic 38: computer list bad stuff card summary banks write default lower errors faster trouble slow baseball
+Topic 39: know just see really going far lot thought tell course long got back remember learn
+Topic 40: file files color check disk gif format jpeg ones usually screen bits faq compression keywords
+Topic 41: another center state human called research legal large within political defense communications exists created protection
+Topic 42: reply please yes word simply house result words mail sorry note message opinion completely feel
+Topic 43: said services office drugs inc company fbi told bought weapons sold dealer marc microsoft msg
+Topic 44: good like way best help better believe find key next actually point without enough used
+Topic 45: wrote heard robert fine simms owners dave voice sound tin gmt keith sounds hear fax
+Topic 46: use general mean saying control line first following point enforcement however case run possible whether
+Topic 47: car speed body distribution low engine ford laboratory orbit vehicle unit lunar rear ray clock
+Topic 48: evidence questions care israel question war whether anti crime jewish disease involved israeli health attacks
+Topic 49: dept newsreader jon mary univ faq lib boulder earth netcom des ann mellon timothy lady
+Topic 0: crypto mine record method correct cryptography nsa code transmission hello count applied algorithm null acts homosexual basis changing contrib multi
+Topic 1: organization article now say even still much though example today fact reason rather agree country world however often although therefore
+Topic 2: posting data mouse posted output driver user quality corp comes release apple switch pin latest suggestions mailing window external programming
+Topic 3: use used using system keywords users unix images sun code material electronic mars light privacy references camera spacecraft models error
+Topic 4: lines problem free start problems originator run exist continue real running case speak mentioned pointed top gary straight business span
+Topic 5: max team teams city nhl hockey pick lost west won part western road traded university major captain hall national canadian
+Topic 6: like fire power american public list states killed taking guns world times usa smoke companies rider military stop street burning
+Topic 7: subject one get time right want year first years take two come last put never back second let end since
+Topic 8: windows bit bill card standard full whole big note little ibm date apple version size single guy fixed add type
+Topic 9: thanks win canada apr support plus btw advantage trade cheap compared australia ahead special overall clinton performance resolution fair finland
+Topic 10: david give dod top michael richard greg lose smith required cost jim wanted average assume thomas expect gave parents coverage
+Topic 11: article software version call server window please systems memory night common hardware display require called fax graphics host installed code
+Topic 12: anyone need hard probably keep maybe anything idea ask change possible accept thinking trying seems perhaps necessarily drive necessary evidence
+Topic 13: people also new many number opinions available name info old group national children claim email several young men numbers cause
+Topic 14: season points cup toronto round playoff east cleveland playoffs islanders vancouver standings finished kings shooting winner houston flames golden finals
+Topic 15: think something sure things true nothing thing question writes says kind yet else mind seems real said always wrong hope
+Topic 16: mail two university players north international sent college apparently several three school engineering south canada held four via medical various
+Topic 17: new government law article high send rights april gun free order police federal laws non normal freedom wire press protect
+Topic 18: world san usa pittsburgh division series business total loss schedule regular motorcycle sweden conference auto germany expected jets sports thursday
+Topic 19: university done private etc department engineering built air fully complete everything home lab institute school tools building installed security purdue
+Topic 20: make made clipper part provide programs needed discussion plan force none security effective shuttle present known create command level individuals
+Topic 21: writes university michael usa john james paul great scott kevin news distribution california history college base charles gordon local jeff
+Topic 22: organization different life image looking based found set email address message groups statement show face network also evil support clear
+Topic 23: god jesus christian christ christians church person jews bible religion according turkish lord atheists king armenian islam atheist atheism beliefs
+Topic 24: system systems knowledge state certain reading ftp society experience authority language view important religions study reference trust wondering term library
+Topic 25: host money gods individual takes jim directly waste meet event ontario events jack collect scott packard moon decide vram food
+Topic 26: people long front net line head half frank goal drive bob shot craig hands minutes short nice shots peter stand
+Topic 27: space science internet technology public water nasa local call earth name news please physics institute station radio asking solar sun
+Topic 28: nntp league interested hockey nhl mac chicago los angeles rochester bay deal montreal louis shipping detroit leafs washington minnesota department
+Topic 29: etc difference try drivers scsi prefer oil push bottom hey fault tel dare algorithm tap helps reasonable lock feds respond
+Topic 30: little look seen small without side large less cars bike man near setting white room red riders riding burned fit
+Topic 31: information source machine ideas encrypted uses description advance weapon main analysis sources reference summary anonymous section carry gas contains firearms
+Topic 32: least around newsgroup appreciated bbs tin per miles usenet port vesa guest traffic uucp goal annoying mileage cheers mile noise
+Topic 33: games steve game dos mike current runs brian period home currently rangers ram mode live played chris original club cpu
+Topic 34: writes work read every day buy sale mail book written works self mark john offer sell save write phil black
+Topic 35: play distribution player results final game perfect open video stars espn input field iii processing ice instructions update match slot
+Topic 36: theory pay effect value insurance price tax worth issue interest escrow market costs taxes amount billion budget fundamental income factor
+Topic 37: program away eye anybody inside internal heard mine baseball hole ground open door somebody roger pgp land missed dan modem
+Topic 38: computer list bad stuff card summary banks write default lower errors faster trouble slow baseball digital players hewlett higher chips
+Topic 39: know just see really going far lot thought tell course long got back remember learn getting pretty quite look guess
+Topic 40: file files color check disk gif format jpeg ones usually screen bits faq compression keywords monitor drives sites vga images
+Topic 41: another center state human called research legal large within political defense communications exists created protection department early form activity media
+Topic 42: reply please yes word simply house result words mail sorry note message opinion completely feel merely fan satan meaning happy
+Topic 43: said services office drugs inc company fbi told bought weapons sold dealer marc microsoft msg criminals widget agent added special
+Topic 44: good like way best help better believe find key next actually point without enough used either chip already great since
+Topic 45: wrote heard robert fine simms owners dave voice sound tin gmt keith sounds hear fax turbo joseph bob tape malcolm
+Topic 46: use general mean saying control line first following point enforcement however case run possible whether process current start follow request
+Topic 47: car speed body distribution low engine ford laboratory orbit vehicle unit lunar rear ray clock average size tire steering weight
+Topic 48: evidence questions care israel question war whether anti crime jewish disease involved israeli health attacks related kill clinton dead sin
+Topic 49: dept newsreader jon mary univ faq lib boulder earth netcom des ann mellon timothy lady dean salvation meg cramer northern
+Topic 0: crypto mine record method correct cryptography nsa code transmission hello count applied algorithm null acts homosexual basis changing contrib multi engineer defined registration technique electrical
+Topic 1: organization article now say even still much though example today fact reason rather agree country world however often although therefore move religious death likely perhaps
+Topic 2: posting data mouse posted output driver user quality corp comes release apple switch pin latest suggestions mailing window external programming string interface keyboard menu comments
+Topic 3: use used using system keywords users unix images sun code material electronic mars light privacy references camera spacecraft models error parts brand tiff valid detector
+Topic 4: lines problem free start problems originator run exist continue real running case speak mentioned pointed top gary straight business span talk quick mix west line
+Topic 5: max team teams city nhl hockey pick lost west won part western road traded university major captain hall national canadian area stanley expansion division buffalo
+Topic 6: like fire power american public list states killed taking guns world times usa smoke companies rider military stop street burning blood illinois air light cities
+Topic 7: subject one get time right want year first years take two come last put never back second let end since left given ago able came
+Topic 8: windows bit bill card standard full whole big note little ibm date apple version size single guy fixed add type nice price picture original model
+Topic 9: thanks win canada apr support plus btw advantage trade cheap compared australia ahead special overall clinton performance resolution fair finland vote finish winning scores panel
+Topic 10: david give dod top michael richard greg lose smith required cost jim wanted average assume thomas expect gave parents coverage board pressure convert net advance
+Topic 11: article software version call server window please systems memory night common hardware display require called fax graphics host installed code include copy via package application
+Topic 12: anyone need hard probably keep maybe anything idea ask change possible accept thinking trying seems perhaps necessarily drive necessary evidence morality unfortunately suggest warrant seem
+Topic 13: people also new many number opinions available name info old group national children claim email several young men numbers cause live calls directory phone women
+Topic 14: season points cup toronto round playoff east cleveland playoffs islanders vancouver standings finished kings shooting winner houston flames golden finals heat magic wave hawks bucks
+Topic 15: think something sure things true nothing thing question writes says kind yet else mind seems real said always wrong hope answer anything love truth sort
+Topic 16: mail two university players north international sent college apparently several three school engineering south canada held four via medical various box wings technical science near
+Topic 17: new government law article high send rights april gun free order police federal laws non normal freedom wire press protect citizens york agencies upon report
+Topic 18: world san usa pittsburgh division series business total loss schedule regular motorcycle sweden conference auto germany expected jets sports thursday damage tue apr expressed constant
+Topic 19: university done private etc department engineering built air fully complete everything home lab institute school tools building installed security purdue sciences applied rutgers anywhere clayton
+Topic 20: make made clipper part provide programs needed discussion plan force none security effective shuttle present known create command level individuals least mission major purpose majority
+Topic 21: writes university michael usa john james paul great scott kevin news distribution california history college base charles gordon local jeff dale computing texas dave tony
+Topic 22: organization different life image looking based found set email address message groups statement show face network also evil support clear phone group usenet personal similar
+Topic 23: god jesus christian christ christians church person jews bible religion according turkish lord atheists king armenian islam atheist atheism beliefs judge scripture quote holy opinion
+Topic 24: system systems knowledge state certain reading ftp society experience authority language view important religions study reference trust wondering term library art congress design western scientific
+Topic 25: host money gods individual takes jim directly waste meet event ontario events jack collect scott packard moon decide vram food chosen ohio dear water choose
+Topic 26: people long front net line head half frank goal drive bob shot craig hands minutes short nice shots peter stand running patrick hit jersey corner
+Topic 27: space science internet technology public water nasa local call earth name news please physics institute station radio asking solar sun mentioned radar gmt ask thank
+Topic 28: nntp league interested hockey nhl mac chicago los angeles rochester bay deal montreal louis shipping detroit leafs washington minnesota department printer boston jose bruins winnipeg
+Topic 29: etc difference try drivers scsi prefer oil push bottom hey fault tel dare algorithm tap helps reasonable lock feds respond uunet perfectly plug compatible macs
+Topic 30: little look seen small without side large less cars bike man near setting white room red riders riding burned fit helmet nice condition bikes wear
+Topic 31: information source machine ideas encrypted uses description advance weapon main analysis sources reference summary anonymous section carry gas contains firearms exchange connection device contents containing
+Topic 32: least around newsgroup appreciated bbs tin per miles usenet port vesa guest traffic uucp goal annoying mileage cheers mile noise cellular goalie visible aint uunet
+Topic 33: games steve game dos mike current runs brian period home currently rangers ram mode live played chris original club cpu playing abc tom saves working
+Topic 34: writes work read every day buy sale mail book written works self mark john offer sell save write phil black books cover cut telling taken
+Topic 35: play distribution player results final game perfect open video stars espn input field iii processing ice instructions update match slot configuration int loop pro draft
+Topic 36: theory pay effect value insurance price tax worth issue interest escrow market costs taxes amount billion budget fundamental income factor management benefit prices bank british
+Topic 37: program away eye anybody inside internal heard mine baseball hole ground open door somebody roger pgp land missed dan modem pin radio heart hide aaron
+Topic 38: computer list bad stuff card summary banks write default lower errors faster trouble slow baseball digital players hewlett higher chips ken analog steven chip nec
+Topic 39: know just see really going far lot thought tell course long got back remember learn getting pretty quite look guess coming started anyway advice deleted
+Topic 40: file files color check disk gif format jpeg ones usually screen bits faq compression keywords monitor drives sites vga images machines bytes board conversion disks
+Topic 41: another center state human called research legal large within political defense communications exists created protection department early form activity media population stephen greek block york
+Topic 42: reply please yes word simply house result words mail sorry note message opinion completely feel merely fan satan meaning happy obvious letter disclaimer thread simple
+Topic 43: said services office drugs inc company fbi told bought weapons sold dealer marc microsoft msg criminals widget agent added special atf clintons germany clients client
+Topic 44: good like way best help better believe find key next actually point without enough used either chip already great since someone access others encryption means
+Topic 45: wrote heard robert fine simms owners dave voice sound tin gmt keith sounds hear fax turbo joseph bob tape malcolm seriously ticket vax listen yeah
+Topic 46: use general mean saying control line first following point enforcement however case run possible whether process current start follow request entry contact state due begin
+Topic 47: car speed body distribution low engine ford laboratory orbit vehicle unit lunar rear ray clock average size tire steering weight tube truck temperature wheel boy
+Topic 48: evidence questions care israel question war whether anti crime jewish disease involved israeli health attacks related kill clinton dead sin peace gun among issue child
+Topic 49: dept newsreader jon mary univ faq lib boulder earth netcom des ann mellon timothy lady dean salvation meg cramer northern angels sig bulletin battery outer
+train theta argmax: (array([ 1,  2,  4,  5,  6,  7,  8, 11, 12, 13, 15, 16, 17, 18, 20, 21, 22,
+       23, 26, 27, 28, 30, 33, 34, 35, 39, 40, 44, 46, 47, 48]), array([ 481,    9,   26,  101,    2, 5656,   57,  548,   68,  168,  731,
+          1,  253,   12,   70,  132,   71,  349,    6,   84,  249,    8,
+         16,   74,    1,  182,  363, 1191,    2,  106,  297]))
+test theta argmax: (array([ 1,  2,  4,  5,  7,  8, 11, 12, 13, 15, 17, 18, 20, 21, 22, 23, 26,
+       27, 28, 30, 33, 34, 39, 40, 44, 47, 48]), array([ 278,    7,   17,   28, 3977,   47,  364,   32,  112,  528,  139,
+          9,   39,   72,   69,  221,    3,   49,  160,    2,    9,   35,
+        131,  234,  719,   89,  162]))
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/sklearn/feature_extraction/text.py:517: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
+  warnings.warn(
+TD_10: 0.85200
+TD_15: 0.80000
+NMI:  0.18361942660569255
+Purity:  0.192777482740308
+Accuracy:  0.4648167817312799
+Macro-f1 0.445586369986151

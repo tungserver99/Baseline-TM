@@ -1,0 +1,21 @@
+{"time":"2025-04-04T00:46:29.446451547+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:46:29.44650647+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_004629-6dp5ealv/logs/debug-core.log"}
+{"time":"2025-04-04T00:46:29.446610767+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:46:29.446618231+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_004629-6dp5ealv/logs/debug-core.log"}
+{"time":"2025-04-04T00:46:29.452412618+07:00","level":"INFO","msg":"created new stream","id":"6dp5ealv"}
+{"time":"2025-04-04T00:46:29.452455639+07:00","level":"INFO","msg":"stream: started","id":"6dp5ealv"}
+{"time":"2025-04-04T00:46:29.452475236+07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"6dp5ealv"}}
+{"time":"2025-04-04T00:46:29.452468122+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6dp5ealv"}}
+{"time":"2025-04-04T00:46:29.452515572+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6dp5ealv"}}
+{"time":"2025-04-04T00:46:29.859075968+07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-04-04T00:46:29.860671714+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-04T00:46:55.942165967+07:00","level":"INFO","msg":"stream: closing","id":"6dp5ealv"}
+{"time":"2025-04-04T00:46:55.942242231+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-04T00:46:55.942572623+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-04T00:46:56.183318285+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-04-04T00:46:56.183364802+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-04-04T00:46:56.18337424+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-04-04T00:46:57.767689557+07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"6dp5ealv"}}
+{"time":"2025-04-04T00:46:57.767804633+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"6dp5ealv"}}
+{"time":"2025-04-04T00:46:57.767881809+07:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"6dp5ealv"}}
+{"time":"2025-04-04T00:46:57.768041249+07:00","level":"INFO","msg":"stream: closed","id":"6dp5ealv"}

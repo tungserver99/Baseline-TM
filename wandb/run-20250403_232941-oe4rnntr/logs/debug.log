@@ -1,0 +1,27 @@
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_setup.py:_flush():77] Configure stats pid to 4102157
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_setup.py:_flush():77] Loading settings from /home/kc/.config/wandb/settings
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_setup.py:_flush():77] Loading settings from /mnt/tungns/Baselines/wandb/settings
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'main.py', 'program_abspath': '/mnt/tungns/Baselines/main.py', 'program': '/mnt/tungns/Baselines/main.py'}
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_setup.py:_flush():77] Applying login settings: {'api_key': '***REDACTED***'}
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_setup.py:_flush():77] Applying login settings: {'api_key': '***REDACTED***'}
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_setup.py:_flush():77] Applying login settings: {}
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_init.py:_log_setup():532] Logging user logs to /mnt/tungns/Baselines/wandb/run-20250403_232941-oe4rnntr/logs/debug.log
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_init.py:_log_setup():533] Logging internal logs to /mnt/tungns/Baselines/wandb/run-20250403_232941-oe4rnntr/logs/debug-internal.log
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_init.py:init():616] calling init triggers
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {'dataset': '20NG', 'plm_model': 'all-mpnet-base-v2', 'model': 'ECRTM', 'num_topics': 50, 'num_groups': 20, 'dropout': 0.2, 'hidden_dim_1': 384, 'hidden_dim_2': 384, 'theta_temp': 1.0, 'DT_alpha': 3.0, 'TW_alpha': 2.0, 'weight_GR': 1.0, 'alpha_GR': 5.0, 'weight_InfoNCE': 50.0, 'beta_temp': 0.2, 'weight_ECR': 100.0, 'use_pretrainWE': True, 'wandb_prj': 'baselines', 'epochs': 10, 'batch_size': 200, 'lr': 0.002, 'device': 'cuda', 'seed': 0, 'lr_scheduler': 'StepLR', 'lr_step_size': 125, 'tune_SVM': False, 'glove': 'glove.6B.100d.txt', 'wete_beta': 0.5, 'wete_epsilon': 0.1, 'init_alpha': True}
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_init.py:init():666] starting backend
+2025-04-03 23:29:41,881 INFO    MainThread:4102157 [wandb_init.py:init():670] setting up manager
+2025-04-03 23:29:41,882 INFO    MainThread:4102157 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-04-03 23:29:41,884 INFO    MainThread:4102157 [wandb_init.py:init():678] backend started and connected
+2025-04-03 23:29:41,886 INFO    MainThread:4102157 [wandb_init.py:init():773] updated telemetry
+2025-04-03 23:29:41,887 INFO    MainThread:4102157 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2025-04-03 23:29:42,271 INFO    MainThread:4102157 [wandb_init.py:init():857] starting run threads in backend
+2025-04-03 23:29:42,409 INFO    MainThread:4102157 [wandb_run.py:_console_start():2459] atexit reg
+2025-04-03 23:29:42,409 INFO    MainThread:4102157 [wandb_run.py:_redirect():2307] redirect: wrap_raw
+2025-04-03 23:29:42,409 INFO    MainThread:4102157 [wandb_run.py:_redirect():2372] Wrapping output streams.
+2025-04-03 23:29:42,409 INFO    MainThread:4102157 [wandb_run.py:_redirect():2397] Redirects installed.
+2025-04-03 23:29:42,411 INFO    MainThread:4102157 [wandb_init.py:init():900] run started, returning control to user process
+2025-04-03 23:30:37,867 WARNING MsgRouterThr:4102157 [router.py:message_loop():77] message_loop has been closed

@@ -1,0 +1,231 @@
+===>train_size:  11314
+===>test_size:  7532
+===>vocab_size:  5000
+===>average length: 110.543
+===>using lr_scheduler
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+100%|███████████████████████████████████████████| 10/10 [01:04<00:00,  6.44s/it]
+*******************
+Train inference time: 0.0008904933929443359
+*******************
+Topic 0: video monitor vga simms cards motherboard card mhz cpu ram
+Topic 1: modem printer port serial print ports duo laser irq printers
+Topic 2: max book books rules read answer original newsgroup word title
+Topic 3: host nntp posting university organization subject lines distribution reply please
+Topic 4: government law rights state laws bill states amendment right federal
+Topic 5: window screen application display manager widget visual mouse event cursor
+Topic 6: definitions identity similarly sufficient arbitrary inherent commonly associated forms situations
+Topic 7: gordon banks msg disease patients food pain cancer doctor medicine
+Topic 8: cellular phones warrant tapped eff sternlight walker toal brad hackers
+Topic 9: henry spencer timer zoology beam temperature electric jet holes photography
+Topic 10: espn abc coverage fan arena tickets schedule stadium fans milwaukee
+Topic 11: surface radius objects ray processing routine plane imaging vision mapping
+Topic 12: racism beyer andi holocaust racist yugoslavia bosnians ira cleansing racial
+Topic 13: audio circuit wire ground wiring battery amp radio voltage electrical
+Topic 14: key chip encryption clipper keys security privacy technology des escrow
+Topic 15: president jobs press clinton american russia secretary meeting administration senior
+Topic 16: fbi batf waco fire compound atf koresh trial tear gas
+Topic 17: windows drive scsi disk problem memory dos drives controller bit
+Topic 18: virginia theodore louisiana duke helainscwruedu cleveland rutgers volunteer ohio rocketswstratuscom
+Topic 19: imagination laid grew apologize likes someones ages teacher joke fathers
+Topic 20: polytechnic dunn calif fairbanks forwarded howard insight delivered maryland offices
+Topic 21: tax drugs taxes bush income economy clintons spending libertarian reagan
+Topic 22: portal greatly chen kenneth replies bitnet preferably appreciate thank ann
+Topic 23: one think also just people writes like time article many
+Topic 24: ford tires engine miles rear brake dealer wheel tire turbo
+Topic 25: armenian turkish armenians armenia turkey turks genocide serdar soviet argic
+Topic 26: car speed cars better around thing enough little buy high
+Topic 27: csutexasedu dial greenbelt newsreader greetings hacker packet networking accessdigexnet inet
+Topic 28: font xterm motif lib fonts jpeg gif contrib usr postscript
+Topic 29: hewlett purdue packard jeff bag durham morgan champion cleveland springs
+Topic 30: wondering tony mellon carnegie genesis delaware brookline thanx dartmouth ralph
+Topic 31: israel israeli jews jewish arab peace arabs war lebanese lebanon
+Topic 32: said going day says went back got came home come
+Topic 33: sale price offer shipping interested condition buy sell apple excellent
+Topic 34: game team games play players season hockey year league win
+Topic 35: baseball runs braves hit cubs pitching ball morris phillies sox
+Topic 36: nhl cup leafs flyers bos playoffs det wings playoff rangers
+Topic 37: kent sandvik alink malcolm ksand believer tourist cookamunga angry loves
+Topic 38: science theory wrong mean evidence perhaps actually nothing example certain
+Topic 39: gun guns firearms weapon firearm handgun handguns nra safety semi
+Topic 40: morality moral objective sex gay keith men islam sexual cramer
+Topic 41: file software program available image files information use pub ftp
+Topic 42: space nasa moon launch orbit earth lunar satellite shuttle flight
+Topic 43: god jesus christian bible christians faith believe religion gods truth
+Topic 44: bike dod ride bmw riding motorcycle bikes dog helmet rider
+Topic 45: health research insurance water care medical programs per money number
+Topic 46: church holy catholic biblical father matthew spirit worship sin testament
+Topic 47: advance appreciated telnet hello bmp tin netherlands enterpoopmitedu temp viewer
+Topic 48: covington scientist philosophical evolution contradictory russell hypothesis phenomenon theories rational
+Topic 49: coffee eye music chuck loud fingers movie rain inner silver
+Topic 0: video monitor vga simms cards motherboard card mhz cpu ram quadra board clock diamond monitors
+Topic 1: modem printer port serial print ports duo laser irq printers com ethernet pins modems powerbook
+Topic 2: max book books rules read answer original newsgroup word title following order text posted reference
+Topic 3: host nntp posting university organization subject lines distribution reply please anyone thanks article usa computer
+Topic 4: government law rights state laws bill states amendment right federal case militia crime weapons act
+Topic 5: window screen application display manager widget visual mouse event cursor xlib width color drawing app
+Topic 6: definitions identity similarly sufficient arbitrary inherent commonly associated forms situations reasonably relevant occurs valid assumptions
+Topic 7: gordon banks msg disease patients food pain cancer doctor medicine diet yeast aids symptoms foods
+Topic 8: cellular phones warrant tapped eff sternlight walker toal brad hackers graham crypto tap feds denning
+Topic 9: henry spencer timer zoology beam temperature electric jet holes photography nuclear fuel gamma cycle laboratory
+Topic 10: espn abc coverage fan arena tickets schedule stadium fans milwaukee pool sports minnesota football atlanta
+Topic 11: surface radius objects ray processing routine plane imaging vision mapping interactive cad analysis algorithms object
+Topic 12: racism beyer andi holocaust racist yugoslavia bosnians ira cleansing racial bosnian serbs incidents wwii iraq
+Topic 13: audio circuit wire ground wiring battery amp radio voltage electrical signal wires sound circuits noise
+Topic 14: key chip encryption clipper keys security privacy technology des escrow secure public enforcement algorithm secret
+Topic 15: president jobs press clinton american russia secretary meeting administration senior south package official funds summer
+Topic 16: fbi batf waco fire compound atf koresh trial tear gas happened tanks blame cult bds
+Topic 17: windows drive scsi disk problem memory dos drives controller bit ide drivers hard card machine
+Topic 18: virginia theodore louisiana duke helainscwruedu cleveland rutgers volunteer ohio rocketswstratuscom cnn freeman ruling tennessee pissed
+Topic 19: imagination laid grew apologize likes someones ages teacher joke fathers insult spoken trees husband stood
+Topic 20: polytechnic dunn calif fairbanks forwarded howard insight delivered maryland offices participated joel universities oregon giant
+Topic 21: tax drugs taxes bush income economy clintons spending libertarian reagan pay phill waste billion dollars
+Topic 22: portal greatly chen kenneth replies bitnet preferably appreciate thank ann responses cell programmer howard appreciated
+Topic 23: one think also just people writes like time article many much even way get make
+Topic 24: ford tires engine miles rear brake dealer wheel tire turbo toyota saturn brakes automotive exhaust
+Topic 25: armenian turkish armenians armenia turkey turks genocide serdar soviet argic azerbaijan greek greece muslim greeks
+Topic 26: car speed cars better around thing enough little buy high fast getting really drive big
+Topic 27: csutexasedu dial greenbelt newsreader greetings hacker packet networking accessdigexnet inet snail summarize integrity compuserve bandwidth
+Topic 28: font xterm motif lib fonts jpeg gif contrib usr postscript tiff clients server toolkit sun
+Topic 29: hewlett purdue packard jeff bag durham morgan champion cleveland springs cornell wanna jonathan lehigh columbus
+Topic 30: wondering tony mellon carnegie genesis delaware brookline thanx dartmouth ralph terry originator jeff kevin alex
+Topic 31: israel israeli jews jewish arab peace arabs war lebanese lebanon palestinian israelis gaza palestine palestinians
+Topic 32: said going day says went back got came home come something told first people started
+Topic 33: sale price offer shipping interested condition buy sell apple excellent best asking model looking phone
+Topic 34: game team games play players season hockey year league win teams last division player next
+Topic 35: baseball runs braves hit cubs pitching ball morris phillies sox hitter won mets jays pitcher
+Topic 36: nhl cup leafs flyers bos playoffs det wings playoff rangers tor montreal cal pens puck
+Topic 37: kent sandvik alink malcolm ksand believer tourist cookamunga angry loves liar theists prayer righteous sins
+Topic 38: science theory wrong mean evidence perhaps actually nothing example certain rather reason idea certainly argument
+Topic 39: gun guns firearms weapon firearm handgun handguns nra safety semi police violent radar shot shooting
+Topic 40: morality moral objective sex gay keith men islam sexual cramer clayton marriage homosexual homosexuality homosexuals
+Topic 41: file software program available image files information use pub ftp output name internet line version
+Topic 42: space nasa moon launch orbit earth lunar satellite shuttle flight solar mars spacecraft mission planetary
+Topic 43: god jesus christian bible christians faith believe religion gods truth christ christianity life man belief
+Topic 44: bike dod ride bmw riding motorcycle bikes dog helmet rider ama dogs riders motorcycles lane
+Topic 45: health research insurance water care medical programs per money number center year private high rate
+Topic 46: church holy catholic biblical father matthew spirit worship sin testament resurrection lord pope doctrine gospel
+Topic 47: advance appreciated telnet hello bmp tin netherlands enterpoopmitedu temp viewer download tel delete animation pointers
+Topic 48: covington scientist philosophical evolution contradictory russell hypothesis phenomenon theories rational psychology georgia absurd subjective scientists
+Topic 49: coffee eye music chuck loud fingers movie rain inner silver girl glass damaged plant flash
+Topic 0: video monitor vga simms cards motherboard card mhz cpu ram quadra board clock diamond monitors fpu vlb performance centris vesa
+Topic 1: modem printer port serial print ports duo laser irq printers com ethernet pins modems powerbook baud cartridge connect interrupt scanner
+Topic 2: max book books rules read answer original newsgroup word title following order text posted reference reading copy group written faq
+Topic 3: host nntp posting university organization subject lines distribution reply please anyone thanks article usa computer need david writes new world
+Topic 4: government law rights state laws bill states amendment right federal case militia crime weapons act court control public constitution political
+Topic 5: window screen application display manager widget visual mouse event cursor xlib width color drawing app depth button draw create default
+Topic 6: definitions identity similarly sufficient arbitrary inherent commonly associated forms situations reasonably relevant occurs valid assumptions reduced efficient defined equivalent widely
+Topic 7: gordon banks msg disease patients food pain cancer doctor medicine diet yeast aids symptoms foods sensitivity treatment syndrome diseases effects
+Topic 8: cellular phones warrant tapped eff sternlight walker toal brad hackers graham crypto tap feds denning dorothy classified mitre trust nsa
+Topic 9: henry spencer timer zoology beam temperature electric jet holes photography nuclear fuel gamma cycle laboratory vacuum tower heat utzoo discharge
+Topic 10: espn abc coverage fan arena tickets schedule stadium fans milwaukee pool sports minnesota football atlanta baltimore thursday philadelphia monday wednesday
+Topic 11: surface radius objects ray processing routine plane imaging vision mapping interactive cad analysis algorithms object geometry sequence art listing pictures
+Topic 12: racism beyer andi holocaust racist yugoslavia bosnians ira cleansing racial bosnian serbs incidents wwii iraq nazis desert iran practiced fanatic
+Topic 13: audio circuit wire ground wiring battery amp radio voltage electrical signal wires sound circuits noise channel stereo switch receiver speaker
+Topic 14: key chip encryption clipper keys security privacy technology des escrow secure public enforcement algorithm secret government cryptography access information protect
+Topic 15: president jobs press clinton american russia secretary meeting administration senior south package official funds summer naval george working russian congress
+Topic 16: fbi batf waco fire compound atf koresh trial tear gas happened tanks blame cult bds ranch witnesses jim innocent dividian
+Topic 17: windows drive scsi disk problem memory dos drives controller bit ide drivers hard card machine mac using driver problems floppy
+Topic 18: virginia theodore louisiana duke helainscwruedu cleveland rutgers volunteer ohio rocketswstratuscom cnn freeman ruling tennessee pissed jefferson fuck lawyers banned enforce
+Topic 19: imagination laid grew apologize likes someones ages teacher joke fathers insult spoken trees husband stood boss cry sons promises honor
+Topic 20: polytechnic dunn calif fairbanks forwarded howard insight delivered maryland offices participated joel universities oregon giant commission briefly arthur simon gene
+Topic 21: tax drugs taxes bush income economy clintons spending libertarian reagan pay phill waste billion dollars money rich veal paying concentrate
+Topic 22: portal greatly chen kenneth replies bitnet preferably appreciate thank ann responses cell programmer howard appreciated wondering gene gateway producing arbor
+Topic 23: one think also just people writes like time article many much even way get make know good say now see
+Topic 24: ford tires engine miles rear brake dealer wheel tire turbo toyota saturn brakes automotive exhaust mileage valve honda wheels transmission
+Topic 25: armenian turkish armenians armenia turkey turks genocide serdar soviet argic azerbaijan greek greece muslim greeks extermination villages sdpa soldiers davidian
+Topic 26: car speed cars better around thing enough little buy high fast getting really drive big lot nice good side small
+Topic 27: csutexasedu dial greenbelt newsreader greetings hacker packet networking accessdigexnet inet snail summarize integrity compuserve bandwidth eng answering copyright administrator online
+Topic 28: font xterm motif lib fonts jpeg gif contrib usr postscript tiff clients server toolkit sun mit characters sparc sunos icon
+Topic 29: hewlett purdue packard jeff bag durham morgan champion cleveland springs cornell wanna jonathan lehigh columbus tony dumb wondering charles mellon
+Topic 30: wondering tony mellon carnegie genesis delaware brookline thanx dartmouth ralph terry originator jeff kevin alex appreciated tin sean durham waterloo
+Topic 31: israel israeli jews jewish arab peace arabs war lebanese lebanon palestinian israelis gaza palestine palestinians occupied land civilians human policy
+Topic 32: said going day says went back got came home come something told first people started took say now left let
+Topic 33: sale price offer shipping interested condition buy sell apple excellent best asking model looking phone motorola prices old brand wanted
+Topic 34: game team games play players season hockey year league win teams last division player next toronto points better mike second
+Topic 35: baseball runs braves hit cubs pitching ball morris phillies sox hitter won mets jays pitcher yankees pitchers suck innings inning
+Topic 36: nhl cup leafs flyers bos playoffs det wings playoff rangers tor montreal cal pens puck devils pit islanders winnipeg blues
+Topic 37: kent sandvik alink malcolm ksand believer tourist cookamunga angry loves liar theists prayer righteous sins ignorance believing loved loving arrogant
+Topic 38: science theory wrong mean evidence perhaps actually nothing example certain rather reason idea certainly argument seem whether sense difference thing
+Topic 39: gun guns firearms weapon firearm handgun handguns nra safety semi police violent radar shot shooting gang carry license cops self
+Topic 40: morality moral objective sex gay keith men islam sexual cramer clayton marriage homosexual homosexuality homosexuals jon married rushdie livesey abortion
+Topic 41: file software program available image files information use pub ftp output name internet line version mail email anonymous entry user
+Topic 42: space nasa moon launch orbit earth lunar satellite shuttle flight solar mars spacecraft mission planetary missions satellites commercial probe vehicle
+Topic 43: god jesus christian bible christians faith believe religion gods truth christ christianity life man belief true reason religious john existence
+Topic 44: bike dod ride bmw riding motorcycle bikes dog helmet rider ama dogs riders motorcycles lane yamaha nick mph biker road
+Topic 45: health research insurance water care medical programs per money number center year private high rate york services public important program
+Topic 46: church holy catholic biblical father matthew spirit worship sin testament resurrection lord pope doctrine gospel clh scripture messiah luke mary
+Topic 47: advance appreciated telnet hello bmp tin netherlands enterpoopmitedu temp viewer download tel delete animation pointers logo icons edit apps directories
+Topic 48: covington scientist philosophical evolution contradictory russell hypothesis phenomenon theories rational psychology georgia absurd subjective scientists experiments purely irrational significance universe
+Topic 49: coffee eye music chuck loud fingers movie rain inner silver girl glass damaged plant flash legs valley noticed boys wife
+Topic 0: video monitor vga simms cards motherboard card mhz cpu ram quadra board clock diamond monitors fpu vlb performance centris vesa eisa vram processor ati svga
+Topic 1: modem printer port serial print ports duo laser irq printers com ethernet pins modems powerbook baud cartridge connect interrupt scanner printing jumper bps connector jumpers
+Topic 2: max book books rules read answer original newsgroup word title following order text posted reference reading copy group written faq articles write english comments postings
+Topic 3: host nntp posting university organization subject lines distribution reply please anyone thanks article usa computer need david writes new world know state mail question news
+Topic 4: government law rights state laws bill states amendment right federal case militia crime weapons act court control public constitution political person country civil freedom legal
+Topic 5: window screen application display manager widget visual mouse event cursor xlib width color drawing app depth button draw create default dialog focus function click resource
+Topic 6: definitions identity similarly sufficient arbitrary inherent commonly associated forms situations reasonably relevant occurs valid assumptions reduced efficient defined equivalent widely aspects acceptable practical suggests examples
+Topic 7: gordon banks msg disease patients food pain cancer doctor medicine diet yeast aids symptoms foods sensitivity treatment syndrome diseases effects clinical brain chinese intellect blood
+Topic 8: cellular phones warrant tapped eff sternlight walker toal brad hackers graham crypto tap feds denning dorothy classified mitre trust nsa crack nixon paranoia omissions listen
+Topic 9: henry spencer timer zoology beam temperature electric jet holes photography nuclear fuel gamma cycle laboratory vacuum tower heat utzoo discharge crystal thermal atmospheric motion accelerator
+Topic 10: espn abc coverage fan arena tickets schedule stadium fans milwaukee pool sports minnesota football atlanta baltimore thursday philadelphia monday wednesday mailing sunday san florida scores
+Topic 11: surface radius objects ray processing routine plane imaging vision mapping interactive cad analysis algorithms object geometry sequence art listing pictures routines map plot circle structures
+Topic 12: racism beyer andi holocaust racist yugoslavia bosnians ira cleansing racial bosnian serbs incidents wwii iraq nazis desert iran practiced fanatic gulf peaceful irvine torture atrocities
+Topic 13: audio circuit wire ground wiring battery amp radio voltage electrical signal wires sound circuits noise channel stereo switch receiver speaker electronics signals analog cable neutral
+Topic 14: key chip encryption clipper keys security privacy technology des escrow secure public enforcement algorithm secret government cryptography access information protect data pgp devices agencies law
+Topic 15: president jobs press clinton american russia secretary meeting administration senior south package official funds summer naval george working russian congress united white office groups states
+Topic 16: fbi batf waco fire compound atf koresh trial tear gas happened tanks blame cult bds ranch witnesses jim innocent dividian scott suicide branch agents guilty
+Topic 17: windows drive scsi disk problem memory dos drives controller bit ide drivers hard card machine mac using driver problems floppy system help rom running run
+Topic 18: virginia theodore louisiana duke helainscwruedu cleveland rutgers volunteer ohio rocketswstratuscom cnn freeman ruling tennessee pissed jefferson fuck lawyers banned enforce newspaper editorial reputation sue rent
+Topic 19: imagination laid grew apologize likes someones ages teacher joke fathers insult spoken trees husband stood boss cry sons promises honor ass mistake famous georgia narrow
+Topic 20: polytechnic dunn calif fairbanks forwarded howard insight delivered maryland offices participated joel universities oregon giant commission briefly arthur simon gene ross invited begun chapel yale
+Topic 21: tax drugs taxes bush income economy clintons spending libertarian reagan pay phill waste billion dollars money rich veal paying concentrate dollar class agenda ten raise
+Topic 22: portal greatly chen kenneth replies bitnet preferably appreciate thank ann responses cell programmer howard appreciated wondering gene gateway producing arbor laboratories frequent experiences respond insight
+Topic 23: one think also just people writes like time article many much even way get make know good say now see use first two want right
+Topic 24: ford tires engine miles rear brake dealer wheel tire turbo toyota saturn brakes automotive exhaust mileage valve honda wheels transmission mustang dodge sensor shift cylinder
+Topic 25: armenian turkish armenians armenia turkey turks genocide serdar soviet argic azerbaijan greek greece muslim greeks extermination villages sdpa soldiers davidian killed troops history kurds serve
+Topic 26: car speed cars better around thing enough little buy high fast getting really drive big lot nice good side small bad power front driving got
+Topic 27: csutexasedu dial greenbelt newsreader greetings hacker packet networking accessdigexnet inet snail summarize integrity compuserve bandwidth eng answering copyright administrator online dedicated mailer xxmessage evaluation distribute
+Topic 28: font xterm motif lib fonts jpeg gif contrib usr postscript tiff clients server toolkit sun mit characters sparc sunos icon exportlcsmitedu client libraries openwindows xview
+Topic 29: hewlett purdue packard jeff bag durham morgan champion cleveland springs cornell wanna jonathan lehigh columbus tony dumb wondering charles mellon kevin incorporated don shoulder sucks
+Topic 30: wondering tony mellon carnegie genesis delaware brookline thanx dartmouth ralph terry originator jeff kevin alex appreciated tin sean durham waterloo luis purdue cheers oak anyways
+Topic 31: israel israeli jews jewish arab peace arabs war lebanese lebanon palestinian israelis gaza palestine palestinians occupied land civilians human policy west soldiers jerusalem israels attacks
+Topic 32: said going day says went back got came home come something told first people started took say now left let saw heard even take time
+Topic 33: sale price offer shipping interested condition buy sell apple excellent best asking model looking phone motorola prices old brand wanted selling sold bought box company
+Topic 34: game team games play players season hockey year league win teams last division player next toronto points better mike second first best series playing mark
+Topic 35: baseball runs braves hit cubs pitching ball morris phillies sox hitter won mets jays pitcher yankees pitchers suck innings inning batting giants fame wins hitting
+Topic 36: nhl cup leafs flyers bos playoffs det wings playoff rangers tor montreal cal pens puck devils pit islanders winnipeg blues jets quebec calgary stanley lemieux
+Topic 37: kent sandvik alink malcolm ksand believer tourist cookamunga angry loves liar theists prayer righteous sins ignorance believing loved loving arrogant souls satan believers anger bobby
+Topic 38: science theory wrong mean evidence perhaps actually nothing example certain rather reason idea certainly argument seem whether sense difference thing agree claim unless understand fact
+Topic 39: gun guns firearms weapon firearm handgun handguns nra safety semi police violent radar shot shooting gang carry license cops self armed trigger rate rifles jason
+Topic 40: morality moral objective sex gay keith men islam sexual cramer clayton marriage homosexual homosexuality homosexuals jon married rushdie livesey abortion male immoral islamic optilink child
+Topic 41: file software program available image files information use pub ftp output name internet line version mail email anonymous entry user code graphics system unix using
+Topic 42: space nasa moon launch orbit earth lunar satellite shuttle flight solar mars spacecraft mission planetary missions satellites commercial probe vehicle orbital launched rocket exploration telescope
+Topic 43: god jesus christian bible christians faith believe religion gods truth christ christianity life man belief true reason religious john existence atheists love eternal world atheism
+Topic 44: bike dod ride bmw riding motorcycle bikes dog helmet rider ama dogs riders motorcycles lane yamaha nick mph biker road passenger advice shaft drinking bnr
+Topic 45: health research insurance water care medical programs per money number center year private high rate york services public important program experience national study years general
+Topic 46: church holy catholic biblical father matthew spirit worship sin testament resurrection lord pope doctrine gospel clh scripture messiah luke mary churches passages passage canon verse
+Topic 47: advance appreciated telnet hello bmp tin netherlands enterpoopmitedu temp viewer download tel delete animation pointers logo icons edit apps directories pascal bitmap utility anybody newsreader
+Topic 48: covington scientist philosophical evolution contradictory russell hypothesis phenomenon theories rational psychology georgia absurd subjective scientists experiments purely irrational significance universe athens reasoning intelligence lady distinguish
+Topic 49: coffee eye music chuck loud fingers movie rain inner silver girl glass damaged plant flash legs valley noticed boys wife arm seemed neck roof gold
+train theta argmax: (array([ 0,  1,  2,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17,
+       18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34,
+       35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]), array([650, 405,  63, 141, 334,  10, 509, 216, 248, 187, 224, 128, 362,
+       325,  78, 315, 447, 112,  21,  77, 251,   4,   1, 509, 172,  37,
+       169, 384,  30,  19, 315,  12, 396,  63, 509, 466, 188,  11, 326,
+       375,  48, 398, 418, 475,  32, 337, 347, 144,  26]))
+test theta argmax: (array([ 0,  1,  2,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17,
+       18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35,
+       36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]), array([396, 264,  20,  92, 174,   3, 321, 191, 210, 122, 129, 108, 250,
+       178,  36, 395, 308,  87,   5,  78, 116,   3, 396,  92,  12, 117,
+       312,  13,  13, 199,   6, 242,  48, 340, 292, 131,  20, 117, 269,
+        34, 233, 233, 273,  26, 260, 239, 104,  25]))
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/sklearn/feature_extraction/text.py:517: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
+  warnings.warn(
+TD_10: 0.99200
+TD_15: 0.97067
+NMI:  0.5540677748947775
+Purity:  0.6022304832713755
+Accuracy:  0.7116303770578863
+Macro-f1 0.6949322728577638

@@ -1,0 +1,21 @@
+{"time":"2025-04-04T00:03:34.840547109+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:03:34.840630033+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_000334-kbus8u0d/logs/debug-core.log"}
+{"time":"2025-04-04T00:03:34.840765476+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-04T00:03:34.840771768+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250404_000334-kbus8u0d/logs/debug-core.log"}
+{"time":"2025-04-04T00:03:34.846704906+07:00","level":"INFO","msg":"created new stream","id":"kbus8u0d"}
+{"time":"2025-04-04T00:03:34.846771711+07:00","level":"INFO","msg":"stream: started","id":"kbus8u0d"}
+{"time":"2025-04-04T00:03:34.846782+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"kbus8u0d"}}
+{"time":"2025-04-04T00:03:34.846831362+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"kbus8u0d"}}
+{"time":"2025-04-04T00:03:34.846801106+07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"kbus8u0d"}}
+{"time":"2025-04-04T00:03:35.275907121+07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-04-04T00:03:35.278060749+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-04T00:04:03.493266777+07:00","level":"INFO","msg":"stream: closing","id":"kbus8u0d"}
+{"time":"2025-04-04T00:04:03.493328683+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-04T00:04:03.493634523+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-04T00:04:03.713460262+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-04-04T00:04:03.713499074+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-04-04T00:04:03.713507941+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-04-04T00:04:05.237070748+07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"kbus8u0d"}}
+{"time":"2025-04-04T00:04:05.237148643+07:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"kbus8u0d"}}
+{"time":"2025-04-04T00:04:05.237129197+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"kbus8u0d"}}
+{"time":"2025-04-04T00:04:05.237315365+07:00","level":"INFO","msg":"stream: closed","id":"kbus8u0d"}

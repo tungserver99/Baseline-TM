@@ -1,0 +1,222 @@
+===>train_size:  11314
+===>test_size:  7532
+===>vocab_size:  5000
+===>average length: 110.543
+===>using lr_scheduler
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+100%|███████████████████████████████████████████| 10/10 [00:03<00:00,  2.93it/s]
+Topic 0: god believe say bible jesus christians one think faith belief
+Topic 1: one russia people united think russian states administration new russians
+Topic 2: people one know just think like say said going time
+Topic 3: people militia gun government right arms writes think guns weapons
+Topic 4: olchowy gerald cage chemistry nntp cds host phillies microsystems tourist
+Topic 5: brunswick springs forsale champaign briefly tonight sessions arena assistant herein
+Topic 6: approx forsale purdue advance thanx theodore biker condition sale thanks
+Topic 7: kentucky csutexasedu preferably sale herein rutgers brand drew penn nntp
+Topic 8: writes article just good like clipper gun better government guns
+Topic 9: key encryption space chip law one missions telecommunications government spacecraft
+Topic 10: obo thanks xxdate useragent nuntius xxmessage appreciated help card sale
+Topic 11: luis obo enterpoopmitedu advance thanx shaft grand shack oak chuck
+Topic 12: entry file program remark guidelines output build info compile use
+Topic 13: appreciated hello summarize polytechnic greatly dartmouth shameful andi forsale weather
+Topic 14: csutexasedu nntp host polytechnic kentucky sale cunixbcccolumbiaedu computing thanks obo
+Topic 15: writes just article like think clipper much good key crypto
+Topic 16: people turkish serdar one argic armenian armenians appressian turks sahak
+Topic 17: max cliff det bos tor pit dakota min que van
+Topic 18: god people writes jesus article think say gods believe christians
+Topic 19: host nntp telnet gardner chuck valley alberta fidonet forsale thanx
+Topic 20: intellect beaverton chastity skepticism gordon shameful banks pitches cookamunga tourist
+Topic 21: helainscwruedu brookline newsreader polytechnic csutexasedu preferably forsale chen comp iisi
+Topic 22: purdue obo sale tin newsreader pointers forwarded louisiana intellect ohio
+Topic 23: writes article schneider allan alink ksand sandvik kent cookamunga keith
+Topic 24: austria tin leafs rangers lehigh walks recsporthockey cunixbcccolumbiaedu todd norway
+Topic 25: screen windows boot player pitching static problem team writes gateway
+Topic 26: writes article maynard jays really gerald last olchowy baseball year
+Topic 27: windows card memory running using cache problem machine instruction motherboard
+Topic 28: scsi drive windows problem ide disk ram memory bit card
+Topic 29: israel israeli people writes arab palestinian article arabs occupied cpr
+Topic 30: good better like players just think much player even chip
+Topic 31: sale advance delaware speakers tektronix licensed cartridge servicing melbourne covington
+Topic 32: shameful virginia chastity csutexasedu intellect univ skepticism champaign portal surrender
+Topic 33: rocketswstratuscom obo louisiana csutexasedu shameful chastity intellect servicing penn upgrading
+Topic 34: writes article warrant bds car bike batf atf kids bikes
+Topic 35: sale sabres champion pool polytechnic bay scores lake finals storm
+Topic 36: sale devils recsporthockey nntp champions luis johns host incorporated elizabeth
+Topic 37: windows video memory switch switched fast using problem sony mhz
+Topic 38: one god people jesus matthew see time way think even
+Topic 39: israel israeli people arabs jews writes god israelis israels lebanon
+Topic 40: drive scsi card system windows controller use diamond dos interface
+Topic 41: penn forsale newsreader ext thanx ross thanks rutgers grateful biology
+Topic 42: sale useragent genesis xxmessage nuntius xxdate obo italy reduction delivered
+Topic 43: windows isa ide dos drive scsi card system bus vlb
+Topic 44: ide card video dos scsi bit screen quantum drive quadra
+Topic 45: csutexasedu pointers servicing covington newsreader champaign athens portal thanx beleive
+Topic 46: writes first playoff season detroit selanne games year buffalo edmonton
+Topic 47: thanks sale summarize advance appreciate appreciated dartmouth nyc ext iisi
+Topic 48: card windows ram drive duo memory megs motherboard ide bus
+Topic 49: one also get image images format use ftp formats see
+Topic 0: god believe say bible jesus christians one think faith belief gods truth arrogance christ people
+Topic 1: one russia people united think russian states administration new russians georgia american president government now
+Topic 2: people one know just think like say said going time something even now get way
+Topic 3: people militia gun government right arms writes think guns weapons amendment organized one constitutional article
+Topic 4: olchowy gerald cage chemistry nntp cds host phillies microsystems tourist cookamunga owns wondering bruins poll
+Topic 5: brunswick springs forsale champaign briefly tonight sessions arena assistant herein memorial beaverton dartmouth carter lehigh
+Topic 6: approx forsale purdue advance thanx theodore biker condition sale thanks oxford dartmouth rutgers eng lehigh
+Topic 7: kentucky csutexasedu preferably sale herein rutgers brand drew penn nntp covington missouri thanks advance servicing
+Topic 8: writes article just good like clipper gun better government guns cops police chip think get
+Topic 9: key encryption space chip law one missions telecommunications government spacecraft devices clipper planetary escrow technology
+Topic 10: obo thanks xxdate useragent nuntius xxmessage appreciated help card sale servicing advance ati diamond forsale
+Topic 11: luis obo enterpoopmitedu advance thanx shaft grand shack oak chuck servicing dartmouth originator champaign reader
+Topic 12: entry file program remark guidelines output build info compile use int remarks rules size one
+Topic 13: appreciated hello summarize polytechnic greatly dartmouth shameful andi forsale weather covington chastity intellect herein thanx
+Topic 14: csutexasedu nntp host polytechnic kentucky sale cunixbcccolumbiaedu computing thanks obo fidonet xxdate nuntius helainscwruedu forsale
+Topic 15: writes just article like think clipper much good key crypto get wiretap car government make
+Topic 16: people turkish serdar one argic armenian armenians appressian turks sahak ohanus melkonian extermination genocide armenia
+Topic 17: max cliff det bos tor pit dakota min que van cal mon baltimore standings rangers
+Topic 18: god people writes jesus article think say gods believe christians even church christ christian christianity
+Topic 19: host nntp telnet gardner chuck valley alberta fidonet forsale thanx lake thanks technologies advance helsinki
+Topic 20: intellect beaverton chastity skepticism gordon shameful banks pitches cookamunga tourist virginia surrender helainscwruedu solntzewpdsgicom tektronix
+Topic 21: helainscwruedu brookline newsreader polytechnic csutexasedu preferably forsale chen comp iisi fairbanks partially beaverton shack snail
+Topic 22: purdue obo sale tin newsreader pointers forwarded louisiana intellect ohio polytechnic thanks toyota troy elizabeth
+Topic 23: writes article schneider allan alink ksand sandvik kent cookamunga keith christian christians tourist morality optilink
+Topic 24: austria tin leafs rangers lehigh walks recsporthockey cunixbcccolumbiaedu todd norway norman danny detroit erik arts
+Topic 25: screen windows boot player pitching static problem team writes gateway printers top computer thing helmet
+Topic 26: writes article maynard jays really gerald last olchowy baseball year game car fans teams toronto
+Topic 27: windows card memory running using cache problem machine instruction motherboard apple drive duo mac screen
+Topic 28: scsi drive windows problem ide disk ram memory bit card bus quadra slower motherboard hard
+Topic 29: israel israeli people writes arab palestinian article arabs occupied cpr peace israelis territories government lebanon
+Topic 30: good better like players just think much player even chip season baseball team now writes
+Topic 31: sale advance delaware speakers tektronix licensed cartridge servicing melbourne covington herein portal obo distribution nntp
+Topic 32: shameful virginia chastity csutexasedu intellect univ skepticism champaign portal surrender theodore springs servicing alien rutgers
+Topic 33: rocketswstratuscom obo louisiana csutexasedu shameful chastity intellect servicing penn upgrading dis skepticism missouri pointers beware
+Topic 34: writes article warrant bds car bike batf atf kids bikes riders cops dealer ama riding
+Topic 35: sale sabres champion pool polytechnic bay scores lake finals storm capitals standings nntp champions formerly
+Topic 36: sale devils recsporthockey nntp champions luis johns host incorporated elizabeth eng newsreader thanx champs duke
+Topic 37: windows video memory switch switched fast using problem sony mhz ram port mode processor reset
+Topic 38: one god people jesus matthew see time way think even just also bible say holy
+Topic 39: israel israeli people arabs jews writes god israelis israels lebanon arab civilians article villages peace
+Topic 40: drive scsi card system windows controller use diamond dos interface problem video pin bus disk
+Topic 41: penn forsale newsreader ext thanx ross thanks rutgers grateful biology sale rgb greetings advance computing
+Topic 42: sale useragent genesis xxmessage nuntius xxdate obo italy reduction delivered polytechnic rec greenbelt practiced nntp
+Topic 43: windows isa ide dos drive scsi card system bus vlb problem disk eisa video bit
+Topic 44: ide card video dos scsi bit screen quantum drive quadra apple ram isa setup monitor
+Topic 45: csutexasedu pointers servicing covington newsreader champaign athens portal thanx beleive tube amusing followups beaverton alink
+Topic 46: writes first playoff season detroit selanne games year buffalo edmonton islanders game team scoring article
+Topic 47: thanks sale summarize advance appreciate appreciated dartmouth nyc ext iisi penn electronics collins cleveland enterpoopmitedu
+Topic 48: card windows ram drive duo memory megs motherboard ide bus dos ports simms problem gateway
+Topic 49: one also get image images format use ftp formats see servers like many color display
+Topic 0: god believe say bible jesus christians one think faith belief gods truth arrogance christ people christian grace sin salvation writes
+Topic 1: one russia people united think russian states administration new russians georgia american president government now time war funds reform health
+Topic 2: people one know just think like say said going time something even now get way jobs crowd want secretary floor
+Topic 3: people militia gun government right arms writes think guns weapons amendment organized one constitutional article guard constitution liberties bear state
+Topic 4: olchowy gerald cage chemistry nntp cds host phillies microsystems tourist cookamunga owns wondering bruins poll russ ksand anyways beer ltd
+Topic 5: brunswick springs forsale champaign briefly tonight sessions arena assistant herein memorial beaverton dartmouth carter lehigh theodore gulf livni jake champions
+Topic 6: approx forsale purdue advance thanx theodore biker condition sale thanks oxford dartmouth rutgers eng lehigh troy helainscwruedu fastest hello servicing
+Topic 7: kentucky csutexasedu preferably sale herein rutgers brand drew penn nntp covington missouri thanks advance servicing portal conner originator hello harvey
+Topic 8: writes article just good like clipper gun better government guns cops police chip think get much really escrow even phones
+Topic 9: key encryption space chip law one missions telecommunications government spacecraft devices clipper planetary escrow technology use mission conversations system industry
+Topic 10: obo thanks xxdate useragent nuntius xxmessage appreciated help card sale servicing advance ati diamond forsale norton video port greatly andre
+Topic 11: luis obo enterpoopmitedu advance thanx shaft grand shack oak chuck servicing dartmouth originator champaign reader wondering knock forwarded cookamunga alink
+Topic 12: entry file program remark guidelines output build info compile use int remarks rules size one judges author files bytes sunnyvale
+Topic 13: appreciated hello summarize polytechnic greatly dartmouth shameful andi forsale weather covington chastity intellect herein thanx advance rec louisiana andre telnet
+Topic 14: csutexasedu nntp host polytechnic kentucky sale cunixbcccolumbiaedu computing thanks obo fidonet xxdate nuntius helainscwruedu forsale intellect elizabeth mellon briefly useragent
+Topic 15: writes just article like think clipper much good key crypto get wiretap car government make sternlight encryption escrow chip keys
+Topic 16: people turkish serdar one argic armenian armenians appressian turks sahak ohanus melkonian extermination genocide armenia proceeded sdpa anatolia passes turkey
+Topic 17: max cliff det bos tor pit dakota min que van cal mon baltimore standings rangers champs murphy hawks stevens playoff
+Topic 18: god people writes jesus article think say gods believe christians even church christ christian christianity bible faith just life die
+Topic 19: host nntp telnet gardner chuck valley alberta fidonet forsale thanx lake thanks technologies advance helsinki address doc club obo incompatible
+Topic 20: intellect beaverton chastity skepticism gordon shameful banks pitches cookamunga tourist virginia surrender helainscwruedu solntzewpdsgicom tektronix sandvik alink theodore dividian univ
+Topic 21: helainscwruedu brookline newsreader polytechnic csutexasedu preferably forsale chen comp iisi fairbanks partially beaverton shack snail arbor curve dartmouth kentucky thanks
+Topic 22: purdue obo sale tin newsreader pointers forwarded louisiana intellect ohio polytechnic thanks toyota troy elizabeth ltd snail helsinki palmer bulletin
+Topic 23: writes article schneider allan alink ksand sandvik kent cookamunga keith christian christians tourist morality optilink cramer solntzewpdsgicom sin petaluma livesey
+Topic 24: austria tin leafs rangers lehigh walks recsporthockey cunixbcccolumbiaedu todd norway norman danny detroit erik arts turner donald playoff chicago pointers
+Topic 25: screen windows boot player pitching static problem team writes gateway printers top computer thing helmet memory inputs monitor adapter horizontal
+Topic 26: writes article maynard jays really gerald last olchowy baseball year game car fans teams toronto team years thing players good
+Topic 27: windows card memory running using cache problem machine instruction motherboard apple drive duo mac screen monitor fpu cpu bus vlb
+Topic 28: scsi drive windows problem ide disk ram memory bit card bus quadra slower motherboard hard controller chip screen adapter isa
+Topic 29: israel israeli people writes arab palestinian article arabs occupied cpr peace israelis territories government lebanon jews lebanese palestinians villages israels
+Topic 30: good better like players just think much player even chip season baseball team now writes year clipper roger get car
+Topic 31: sale advance delaware speakers tektronix licensed cartridge servicing melbourne covington herein portal obo distribution nntp rutgers thanx brand thanks newsreader
+Topic 32: shameful virginia chastity csutexasedu intellect univ skepticism champaign portal surrender theodore springs servicing alien rutgers missouri philosophical kim fidonet tucson
+Topic 33: rocketswstratuscom obo louisiana csutexasedu shameful chastity intellect servicing penn upgrading dis skepticism missouri pointers beware chen harris consulting stratus bnr
+Topic 34: writes article warrant bds car bike batf atf kids bikes riders cops dealer ama riding univ dividian gordon clinic chastity
+Topic 35: sale sabres champion pool polytechnic bay scores lake finals storm capitals standings nntp champions formerly mighty recsporthockey host buffalo ottawa
+Topic 36: sale devils recsporthockey nntp champions luis johns host incorporated elizabeth eng newsreader thanx champs duke tin cis speaker summarize advance
+Topic 37: windows video memory switch switched fast using problem sony mhz ram port mode processor reset horizontal monitors speed analog mouse
+Topic 38: one god people jesus matthew see time way think even just also bible say holy spirit many passage scriptures lord
+Topic 39: israel israeli people arabs jews writes god israelis israels lebanon arab civilians article villages peace lebanese palestinians occupied jewish even
+Topic 40: drive scsi card system windows controller use diamond dos interface problem video pin bus disk floppy motherboard ide irq mac
+Topic 41: penn forsale newsreader ext thanx ross thanks rutgers grateful biology sale rgb greetings advance computing kim missouri speakers netherlands appreciated
+Topic 42: sale useragent genesis xxmessage nuntius xxdate obo italy reduction delivered polytechnic rec greenbelt practiced nntp cunixbcccolumbiaedu purdue pointers stockholm slip
+Topic 43: windows isa ide dos drive scsi card system bus vlb problem disk eisa video bit modem ram upgrade mhz drivers
+Topic 44: ide card video dos scsi bit screen quantum drive quadra apple ram isa setup monitor bus vga sec mac vlb
+Topic 45: csutexasedu pointers servicing covington newsreader champaign athens portal thanx beleive tube amusing followups beaverton alink uucp sale bang rutgers oxford
+Topic 46: writes first playoff season detroit selanne games year buffalo edmonton islanders game team scoring article montreal mvp play minnesota rangers
+Topic 47: thanks sale summarize advance appreciate appreciated dartmouth nyc ext iisi penn electronics collins cleveland enterpoopmitedu jerry tin recsporthockey usa anyone
+Topic 48: card windows ram drive duo memory megs motherboard ide bus dos ports simms problem gateway thanks meg cache switch isa
+Topic 49: one also get image images format use ftp formats see servers like many color display graphics pixel packages server gif
+Topic 0: god believe say bible jesus christians one think faith belief gods truth arrogance christ people christian grace sin salvation writes biblical heaven beliefs just christianity
+Topic 1: one russia people united think russian states administration new russians georgia american president government now time war funds reform health just south official april like
+Topic 2: people one know just think like say said going time something even now get way jobs crowd want secretary floor summer bed work neighbors afraid
+Topic 3: people militia gun government right arms writes think guns weapons amendment organized one constitutional article guard constitution liberties bear state just firearms ban madison crime
+Topic 4: olchowy gerald cage chemistry nntp cds host phillies microsystems tourist cookamunga owns wondering bruins poll russ ksand anyways beer ltd abc cunixbcccolumbiaedu penguins keywords alink
+Topic 5: brunswick springs forsale champaign briefly tonight sessions arena assistant herein memorial beaverton dartmouth carter lehigh theodore gulf livni jake champions cunixbcccolumbiaedu servicing museum rutgers jay
+Topic 6: approx forsale purdue advance thanx theodore biker condition sale thanks oxford dartmouth rutgers eng lehigh troy helainscwruedu fastest hello servicing kim speakers pitches asking rocketswstratuscom
+Topic 7: kentucky csutexasedu preferably sale herein rutgers brand drew penn nntp covington missouri thanks advance servicing portal conner originator hello harvey walks ross cookamunga tourist associate
+Topic 8: writes article just good like clipper gun better government guns cops police chip think get much really escrow even phones nsa auto keys car wiretap
+Topic 9: key encryption space chip law one missions telecommunications government spacecraft devices clipper planetary escrow technology use mission conversations system industry enforcement shuttle data orbit telephone
+Topic 10: obo thanks xxdate useragent nuntius xxmessage appreciated help card sale servicing advance ati diamond forsale norton video port greatly andre windows warranty meg anybody sony
+Topic 11: luis obo enterpoopmitedu advance thanx shaft grand shack oak chuck servicing dartmouth originator champaign reader wondering knock forwarded cookamunga alink tourist simon curtis spelling briefly
+Topic 12: entry file program remark guidelines output build info compile use int remarks rules size one judges author files bytes sunnyvale input section year variable exit
+Topic 13: appreciated hello summarize polytechnic greatly dartmouth shameful andi forsale weather covington chastity intellect herein thanx advance rec louisiana andre telnet docs beyer approx comp cunixbcccolumbiaedu
+Topic 14: csutexasedu nntp host polytechnic kentucky sale cunixbcccolumbiaedu computing thanks obo fidonet xxdate nuntius helainscwruedu forsale intellect elizabeth mellon briefly useragent recsporthockey yamaha luis gardner baud
+Topic 15: writes just article like think clipper much good key crypto get wiretap car government make sternlight encryption escrow chip keys really way even know tapped
+Topic 16: people turkish serdar one argic armenian armenians appressian turks sahak ohanus melkonian extermination genocide armenia proceeded sdpa anatolia passes turkey mountain roads kurds atrocities said
+Topic 17: max cliff det bos tor pit dakota min que van cal mon baltimore standings rangers champs murphy hawks stevens playoff recsporthockey oilers leafs idle maple
+Topic 18: god people writes jesus article think say gods believe christians even church christ christian christianity bible faith just life die fact religion see resurrection way
+Topic 19: host nntp telnet gardner chuck valley alberta fidonet forsale thanx lake thanks technologies advance helsinki address doc club obo incompatible motorcycle ext michigan shack polytechnic
+Topic 20: intellect beaverton chastity skepticism gordon shameful banks pitches cookamunga tourist virginia surrender helainscwruedu solntzewpdsgicom tektronix sandvik alink theodore dividian univ ksand covington sacrifice forsale practiced
+Topic 21: helainscwruedu brookline newsreader polytechnic csutexasedu preferably forsale chen comp iisi fairbanks partially beaverton shack snail arbor curve dartmouth kentucky thanks dis tin sue obo servicing
+Topic 22: purdue obo sale tin newsreader pointers forwarded louisiana intellect ohio polytechnic thanks toyota troy elizabeth ltd snail helsinki palmer bulletin diagnosed cage greenbelt shameful query
+Topic 23: writes article schneider allan alink ksand sandvik kent cookamunga keith christian christians tourist morality optilink cramer solntzewpdsgicom sin petaluma livesey davidians christ believe moral clayton
+Topic 24: austria tin leafs rangers lehigh walks recsporthockey cunixbcccolumbiaedu todd norway norman danny detroit erik arts turner donald playoff chicago pointers sweden playoffs bruins wings ring
+Topic 25: screen windows boot player pitching static problem team writes gateway printers top computer thing helmet memory inputs monitor adapter horizontal running offense teams got bench
+Topic 26: writes article maynard jays really gerald last olchowy baseball year game car fans teams toronto team years thing players good innings msg heck roger coach
+Topic 27: windows card memory running using cache problem machine instruction motherboard apple drive duo mac screen monitor fpu cpu bus vlb chip video ram ati speed
+Topic 28: scsi drive windows problem ide disk ram memory bit card bus quadra slower motherboard hard controller chip screen adapter isa drivers using dos speeds meg
+Topic 29: israel israeli people writes arab palestinian article arabs occupied cpr peace israelis territories government lebanon jews lebanese palestinians villages israels turks occupation serdar argic armenians
+Topic 30: good better like players just think much player even chip season baseball team now writes year clipper roger get car fame gee really stats teams
+Topic 31: sale advance delaware speakers tektronix licensed cartridge servicing melbourne covington herein portal obo distribution nntp rutgers thanx brand thanks newsreader rgb download beaverton icons freshman
+Topic 32: shameful virginia chastity csutexasedu intellect univ skepticism champaign portal surrender theodore springs servicing alien rutgers missouri philosophical kim fidonet tucson beaverton oregon hayes sucks beware
+Topic 33: rocketswstratuscom obo louisiana csutexasedu shameful chastity intellect servicing penn upgrading dis skepticism missouri pointers beware chen harris consulting stratus bnr lobby rec tin sale scanner
+Topic 34: writes article warrant bds car bike batf atf kids bikes riders cops dealer ama riding univ dividian gordon clinic chastity drinking illegal banks shameful taste
+Topic 35: sale sabres champion pool polytechnic bay scores lake finals storm capitals standings nntp champions formerly mighty recsporthockey host buffalo ottawa picks yale espn yamaha atlanta
+Topic 36: sale devils recsporthockey nntp champions luis johns host incorporated elizabeth eng newsreader thanx champs duke tin cis speaker summarize advance grateful trade obo tube durham
+Topic 37: windows video memory switch switched fast using problem sony mhz ram port mode processor reset horizontal monitors speed analog mouse card switching vertical work chip
+Topic 38: one god people jesus matthew see time way think even just also bible say holy spirit many passage scriptures lord theology law good christians biblical
+Topic 39: israel israeli people arabs jews writes god israelis israels lebanon arab civilians article villages peace lebanese palestinians occupied jewish even religious occupation religion palestine christ
+Topic 40: drive scsi card system windows controller use diamond dos interface problem video pin bus disk floppy motherboard ide irq mac vlb ports cursor port using
+Topic 41: penn forsale newsreader ext thanx ross thanks rutgers grateful biology sale rgb greetings advance computing kim missouri speakers netherlands appreciated summarize elizabeth boeing hayes sutherland
+Topic 42: sale useragent genesis xxmessage nuntius xxdate obo italy reduction delivered polytechnic rec greenbelt practiced nntp cunixbcccolumbiaedu purdue pointers stockholm slip enterpoopmitedu norway iron tin portal
+Topic 43: windows isa ide dos drive scsi card system bus vlb problem disk eisa video bit modem ram upgrade mhz drivers cards port memory meg mouse
+Topic 44: ide card video dos scsi bit screen quantum drive quadra apple ram isa setup monitor bus vga sec mac vlb ati connector ports using priced
+Topic 45: csutexasedu pointers servicing covington newsreader champaign athens portal thanx beleive tube amusing followups beaverton alink uucp sale bang rutgers oxford grief tin ksand yale forsale
+Topic 46: writes first playoff season detroit selanne games year buffalo edmonton islanders game team scoring article montreal mvp play minnesota rangers bruins good goalie calgary leafs
+Topic 47: thanks sale summarize advance appreciate appreciated dartmouth nyc ext iisi penn electronics collins cleveland enterpoopmitedu jerry tin recsporthockey usa anyone packard norway pointer pitt manuals
+Topic 48: card windows ram drive duo memory megs motherboard ide bus dos ports simms problem gateway thanks meg cache switch isa apps board disks tcp port
+Topic 49: one also get image images format use ftp formats see servers like many color display graphics pixel packages server gif shareware pub archive exportlcsmitedu contrib
+train theta argmax: (array([ 0,  1,  2,  3,  9, 12, 16, 17, 18, 19, 29, 30, 32, 33, 35, 38, 39,
+       43, 46, 48, 49]), array([ 664,   48,    3,   30,  206,   18,  116,   37,  429, 5628,  262,
+        160, 1029,  280,   34,   76,  357,  659, 1106,   67,  105]))
+test theta argmax: (array([ 0,  1,  2,  3,  9, 12, 16, 17, 18, 19, 29, 30, 32, 33, 35, 38, 39,
+       43, 46, 48, 49]), array([ 425,   33,    2,   16,   94,    9,   73,    8,  290, 3888,  133,
+         82,  693,  185,   23,   56,  327,  401,  666,   38,   90]))
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/sklearn/feature_extraction/text.py:517: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
+  warnings.warn(
+TD_10: 0.41600
+TD_15: 0.37333
+NMI:  0.28308473492724584
+Purity:  0.20034519383961763
+Accuracy:  0.39312267657992567
+Macro-f1 0.3722488287479596

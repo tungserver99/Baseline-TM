@@ -1,0 +1,8 @@
+===>train_size:  11314
+===>test_size:  7532
+===>vocab_size:  5000
+===>average length: 110.543
+Traceback (most recent call last):
+  File "/mnt/tungns/Baselines/main.py", line 106, in <module>
+    trainer = basic_trainer.BasicTrainer(model, epochs=args.epochs,
+TypeError: BasicTrainer.__init__() got an unexpected keyword argument 'device'

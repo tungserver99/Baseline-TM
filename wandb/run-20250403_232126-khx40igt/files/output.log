@@ -1,0 +1,20 @@
+===>train_size:  11314
+===>test_size:  7532
+===>vocab_size:  5000
+===>average length: 110.543
+===>using lr_scheduler
+/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+  0%|                                                    | 0/10 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/mnt/tungns/Baselines/main.py", line 122, in <module>
+    trainer.train(dataset)
+  File "/mnt/tungns/Baselines/basic_trainer.py", line 67, in train
+    rst_dict = self.model(batch_data)
+  File "/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/mnt/miniconda3/envs/ducnq_topmost/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/mnt/tungns/Baselines/models/ECRTM/ECRTM.py", line 111, in forward
+    recon_loss = -(input * recon.log()).sum(axis=1).mean()
+TypeError: unsupported operand type(s) for *: 'dict' and 'Tensor'

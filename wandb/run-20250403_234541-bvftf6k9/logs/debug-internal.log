@@ -1,0 +1,11 @@
+{"time":"2025-04-03T23:45:41.334004126+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-03T23:45:41.334063388+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250403_234541-bvftf6k9/logs/debug-core.log"}
+{"time":"2025-04-03T23:45:41.334144199+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-03T23:45:41.334149469+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250403_234541-bvftf6k9/logs/debug-core.log"}
+{"time":"2025-04-03T23:45:41.346512716+07:00","level":"INFO","msg":"created new stream","id":"bvftf6k9"}
+{"time":"2025-04-03T23:45:41.346584401+07:00","level":"INFO","msg":"stream: started","id":"bvftf6k9"}
+{"time":"2025-04-03T23:45:41.346680691+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"bvftf6k9"}}
+{"time":"2025-04-03T23:45:41.346714665+07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"bvftf6k9"}}
+{"time":"2025-04-03T23:45:41.346606712+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bvftf6k9"}}
+{"time":"2025-04-03T23:45:41.777707739+07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-04-03T23:45:41.779394006+07:00","level":"INFO","msg":"Starting system monitor"}

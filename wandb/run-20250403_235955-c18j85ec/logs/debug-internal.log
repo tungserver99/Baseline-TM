@@ -1,0 +1,11 @@
+{"time":"2025-04-03T23:59:55.08137514+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-03T23:59:55.08141281+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250403_235955-c18j85ec/logs/debug-core.log"}
+{"time":"2025-04-03T23:59:55.08147139+07:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2025-04-03T23:59:55.081475148+07:00","level":"INFO","msg":"created symlink","path":"/mnt/tungns/Baselines/wandb/run-20250403_235955-c18j85ec/logs/debug-core.log"}
+{"time":"2025-04-03T23:59:55.096522745+07:00","level":"INFO","msg":"created new stream","id":"c18j85ec"}
+{"time":"2025-04-03T23:59:55.0965946+07:00","level":"INFO","msg":"stream: started","id":"c18j85ec"}
+{"time":"2025-04-03T23:59:55.096664311+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"c18j85ec"}}
+{"time":"2025-04-03T23:59:55.096680371+07:00","level":"INFO","msg":"sender: started","stream_id":{"value":"c18j85ec"}}
+{"time":"2025-04-03T23:59:55.096748188+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"c18j85ec"}}
+{"time":"2025-04-03T23:59:55.556681193+07:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-04-03T23:59:55.559457086+07:00","level":"INFO","msg":"Starting system monitor"}
