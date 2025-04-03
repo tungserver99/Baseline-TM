@@ -187,7 +187,7 @@ class WeTe(nn.Module):
     
     def get_beta(self):
         inner_p = torch.matmul(self.rho, self.alpha.t())
-        return F.softmax(inner_p, dim=-1)
+        return F.softmax(inner_p, dim=-1).t()
     
     def get_theta(self, bow):
         theta = self.InferNet(bow)

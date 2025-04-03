@@ -24,3 +24,4 @@ config: {'dataset': '20NG', 'plm_model': 'all-mpnet-base-v2', 'model': 'WeTe', '
 2025-04-04 00:51:44,242 INFO    MainThread:8040 [wandb_run.py:_redirect():2372] Wrapping output streams.
 2025-04-04 00:51:44,242 INFO    MainThread:8040 [wandb_run.py:_redirect():2397] Redirects installed.
 2025-04-04 00:51:44,244 INFO    MainThread:8040 [wandb_init.py:init():900] run started, returning control to user process
+2025-04-04 01:00:23,217 WARNING MsgRouterThr:8040 [router.py:message_loop():77] message_loop has been closed
